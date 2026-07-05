@@ -1,4 +1,4 @@
-package com.example.mhlmbackend;
+package com.example.mhlmbackend.model;
 
 public class ArmorPiece {
     private String id;

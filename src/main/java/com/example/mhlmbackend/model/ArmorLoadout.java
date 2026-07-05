@@ -1,4 +1,4 @@
-package com.example.mhlmbackend;
+package com.example.mhlmbackend.model;
 
 import java.util.ArrayList;
 
