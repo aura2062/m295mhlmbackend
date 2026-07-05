@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: mhlm-postgres
+    environment:
+      POSTGRES_USER: mhlmUser
+      POSTGRES_PASSWORD: mhlmPW
+      POSTGRES_DB: mhlmdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - mhlm-data:/var/lib/postgresql/data
+
+volumes:
+  mhlm-data:
