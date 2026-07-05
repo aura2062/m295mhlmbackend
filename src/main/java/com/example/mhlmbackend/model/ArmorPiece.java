@@ -12,6 +12,7 @@ public class ArmorPiece {
     private String name;
     private String type;
 
+    public ArmorPiece() {}
     public ArmorPiece(String id, String name, String type) {
         this.id = id;
         this.name = name;
