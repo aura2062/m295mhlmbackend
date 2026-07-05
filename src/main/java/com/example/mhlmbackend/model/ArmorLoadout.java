@@ -1,25 +1,54 @@
 package com.example.mhlmbackend.model;
 
+import jakarta.persistence.*;
+
 import java.util.ArrayList;
 
+@Entity
+@Table(name = "ArmorLoadouts")
 public class ArmorLoadout {
-    private String id;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
     private String name;
-    private ArrayList<ArmorPiece> armorpieces;
+    @ManyToOne
+    @JoinColumn(name = "head_slot_id")
+    private ArmorPiece headArmorPiece;
+    @ManyToOne
+    @JoinColumn(name = "chest_slot_id")
+    private ArmorPiece chestArmorPiece;
+    @ManyToOne
+    @JoinColumn(name = "gloves_slot_id")
+    private ArmorPiece glovesArmorPiece;
+    @ManyToOne
+    @JoinColumn(name = "waist_slot_id")
+    private ArmorPiece waistArmorPiece;
+    @ManyToOne
+    @JoinColumn(name = "legs_slot_id")
+    private ArmorPiece legsArmorPiece;
 
-    public ArmorLoadout(String id, String name, ArrayList<ArmorPiece> armorpieces) {
-        this.id = id;
+    public ArmorLoadout() {}
+
+    public ArmorLoadout(String name, ArmorPiece headArmorPiece, ArmorPiece chestArmorPiece, ArmorPiece glovesArmorPiece, ArmorPiece waistArmorPiece, ArmorPiece legsArmorPiece) {
         this.name = name;
-        if  (armorpieces.size() != 5) {
-            throw new IllegalArgumentException("ArmorLoadout must have 5 ArmorPieces, one of each type");
-        }
-        this.armorpieces = armorpieces;
+        this.headArmorPiece = headArmorPiece;
+        this.chestArmorPiece = chestArmorPiece;
+        this.glovesArmorPiece = glovesArmorPiece;
+        this.waistArmorPiece = waistArmorPiece;
+        this.legsArmorPiece = legsArmorPiece;
     }
 
-    public String getId() { return id; };
-    public void setId(String id) {this.id = id;};
+    public Long getId() { return id; };
     public String getName() { return name; };
     public void setName(String name) { this.name = name; };
-    public ArrayList<ArmorPiece> getArmorPieces() { return armorpieces; };
-    public void setArmorPieces(ArrayList<ArmorPiece> armorpieces) { this.armorpieces = armorpieces; };
+    public ArmorPiece getHeadArmorPiece() { return headArmorPiece; };
+    public void setHeadArmorPiece(ArmorPiece headArmorPiece) { this.headArmorPiece = headArmorPiece; };
+    public ArmorPiece getChestArmorPiece() { return chestArmorPiece; };
+    public void setChestArmorPiece(ArmorPiece chestArmorPiece) { this.chestArmorPiece = chestArmorPiece; };
+    public ArmorPiece getGlovesArmorPiece() { return glovesArmorPiece; };
+    public void setGlovesArmorPiece(ArmorPiece glovesArmorPiece) { this.glovesArmorPiece = glovesArmorPiece; };
+    public ArmorPiece getWaistArmorPiece() { return waistArmorPiece; };
+    public void setWaistArmorPiece(ArmorPiece waistArmorPiece) { this.waistArmorPiece = waistArmorPiece; };
+    public ArmorPiece getLegsArmorPiece() { return legsArmorPiece; };
+    public void setLegsArmorPiece(ArmorPiece legsArmorPiece) { this.legsArmorPiece = legsArmorPiece; };
 }
