@@ -1,5 +1,7 @@
 package com.example.mhlmbackend.service;
 
+import com.example.mhlmbackend.dto.ArmorLoadoutFormDTO;
+import com.example.mhlmbackend.mapper.ArmorLoadoutMapper;
 import com.example.mhlmbackend.model.ArmorLoadout;
 import com.example.mhlmbackend.repository.ArmorLoadoutRepository;
 import org.springframework.stereotype.Service;
@@ -16,7 +18,9 @@ public class ArmorLoadoutService {
     }
 
     // CREATE
-    public ArmorLoadout createArmorLoadout(ArmorLoadout armorLoadout) {
+    public ArmorLoadout createArmorLoadout(ArmorLoadoutFormDTO form) {
+        ArmorLoadout armorLoadout = ArmorLoadoutMapper.toEntity(form);
+
         return armorLoadoutRepository.save(armorLoadout);
     }
 
@@ -30,7 +34,8 @@ public class ArmorLoadoutService {
     }
 
     // UPDATE
-    public ArmorLoadout updateArmorLoadout(String id, ArmorLoadout armorLoadout) {
+    public ArmorLoadout updateArmorLoadout(String id, ArmorLoadoutFormDTO form) {
+        ArmorLoadout armorLoadout = ArmorLoadoutMapper.toEntity(form);
         armorLoadout.setId(Long.parseLong(id));
         return armorLoadoutRepository.save(armorLoadout);
     }

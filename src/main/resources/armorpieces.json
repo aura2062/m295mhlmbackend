@@ -1,0 +1,8387 @@
+[
+  {
+    "id": "1",
+    "name": "Leather Headgear",
+    "type": "head"
+  },
+  {
+    "id": "2",
+    "name": "Leather Mail",
+    "type": "chest"
+  },
+  {
+    "id": "3",
+    "name": "Leather Gloves",
+    "type": "gloves"
+  },
+  {
+    "id": "4",
+    "name": "Leather Belt",
+    "type": "waist"
+  },
+  {
+    "id": "5",
+    "name": "Leather Trousers",
+    "type": "legs"
+  },
+  {
+    "id": "6",
+    "name": "Chainmail Headgear",
+    "type": "head"
+  },
+  {
+    "id": "7",
+    "name": "Chainmail Vest",
+    "type": "chest"
+  },
+  {
+    "id": "8",
+    "name": "Chainmail Gloves",
+    "type": "gloves"
+  },
+  {
+    "id": "9",
+    "name": "Chainmail Belt",
+    "type": "waist"
+  },
+  {
+    "id": "10",
+    "name": "Chainmail Trousers",
+    "type": "legs"
+  },
+  {
+    "id": "11",
+    "name": "Hunter's Headgear",
+    "type": "head"
+  },
+  {
+    "id": "12",
+    "name": "Hunter's Mail",
+    "type": "chest"
+  },
+  {
+    "id": "13",
+    "name": "Hunter's Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "14",
+    "name": "Hunter's Coil",
+    "type": "waist"
+  },
+  {
+    "id": "15",
+    "name": "Hunter's Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "16",
+    "name": "Bone Helm",
+    "type": "head"
+  },
+  {
+    "id": "17",
+    "name": "Bone Mail",
+    "type": "chest"
+  },
+  {
+    "id": "18",
+    "name": "Bone Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "19",
+    "name": "Bone Coil",
+    "type": "waist"
+  },
+  {
+    "id": "20",
+    "name": "Bone Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "21",
+    "name": "Vespoid Helm",
+    "type": "head"
+  },
+  {
+    "id": "22",
+    "name": "Vespoid Mail",
+    "type": "chest"
+  },
+  {
+    "id": "23",
+    "name": "Vespoid Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "24",
+    "name": "Vespoid Coil",
+    "type": "waist"
+  },
+  {
+    "id": "25",
+    "name": "Vespoid Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "26",
+    "name": "Kestodon Guards",
+    "type": "gloves"
+  },
+  {
+    "id": "27",
+    "name": "Gajau Boots",
+    "type": "legs"
+  },
+  {
+    "id": "28",
+    "name": "Jagras Helm",
+    "type": "head"
+  },
+  {
+    "id": "29",
+    "name": "Jagras Mail",
+    "type": "chest"
+  },
+  {
+    "id": "30",
+    "name": "Jagras Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "31",
+    "name": "Jagras Coil",
+    "type": "waist"
+  },
+  {
+    "id": "32",
+    "name": "Jagras Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "33",
+    "name": "Kulu Headpiece",
+    "type": "head"
+  },
+  {
+    "id": "34",
+    "name": "Kulu Mail",
+    "type": "chest"
+  },
+  {
+    "id": "35",
+    "name": "Kulu Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "36",
+    "name": "Kulu Coil",
+    "type": "waist"
+  },
+  {
+    "id": "37",
+    "name": "Kulu Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "38",
+    "name": "Alloy Helm",
+    "type": "head"
+  },
+  {
+    "id": "39",
+    "name": "Alloy Mail",
+    "type": "chest"
+  },
+  {
+    "id": "40",
+    "name": "Alloy Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "41",
+    "name": "Alloy Coil",
+    "type": "waist"
+  },
+  {
+    "id": "42",
+    "name": "Alloy Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "43",
+    "name": "Pukei Hood",
+    "type": "head"
+  },
+  {
+    "id": "44",
+    "name": "Pukei Mail",
+    "type": "chest"
+  },
+  {
+    "id": "45",
+    "name": "Pukei Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "46",
+    "name": "Pukei Coil",
+    "type": "waist"
+  },
+  {
+    "id": "47",
+    "name": "Pukei Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "48",
+    "name": "Barroth Helm",
+    "type": "head"
+  },
+  {
+    "id": "49",
+    "name": "Barroth Mail",
+    "type": "chest"
+  },
+  {
+    "id": "50",
+    "name": "Barroth Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "51",
+    "name": "Barroth Coil",
+    "type": "waist"
+  },
+  {
+    "id": "52",
+    "name": "Barroth Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "53",
+    "name": "Jyura Helm",
+    "type": "head"
+  },
+  {
+    "id": "54",
+    "name": "Jyura Mail",
+    "type": "chest"
+  },
+  {
+    "id": "55",
+    "name": "Jyura Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "56",
+    "name": "Jyura Coil",
+    "type": "waist"
+  },
+  {
+    "id": "57",
+    "name": "Jyura Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "58",
+    "name": "Kadachi Helm",
+    "type": "head"
+  },
+  {
+    "id": "59",
+    "name": "Kadachi Mail",
+    "type": "chest"
+  },
+  {
+    "id": "60",
+    "name": "Kadachi Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "61",
+    "name": "Kadachi Coil",
+    "type": "waist"
+  },
+  {
+    "id": "62",
+    "name": "Kadachi Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "63",
+    "name": "High Metal Helm",
+    "type": "head"
+  },
+  {
+    "id": "64",
+    "name": "High Metal Mail",
+    "type": "chest"
+  },
+  {
+    "id": "65",
+    "name": "High Metal Braces",
+    "type": "gloves"
+  },
+  {
+    "id": "66",
+    "name": "High Metal Coil",
+    "type": "waist"
+  },
+  {
+    "id": "67",
+    "name": "High Metal Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "68",
+    "name": "King Beetle Vertex",
+    "type": "head"
+  },
+  {
+    "id": "69",
+    "name": "King Beetle Thorax",
+    "type": "chest"
+  },
+  {
+    "id": "70",
+    "name": "King Beetle Brachia",
+    "type": "gloves"
+  },
+  {
+    "id": "71",
+    "name": "King Beetle Elytra",
+    "type": "waist"
+  },
+  {
+    "id": "72",
+    "name": "King Beetle Crura",
+    "type": "legs"
+  },
+  {
+    "id": "73",
+    "name": "Butterfly Vertex",
+    "type": "head"
+  },
+  {
+    "id": "74",
+    "name": "Butterfly Thorax",
+    "type": "chest"
+  },
+  {
+    "id": "75",
+    "name": "Butterfly Brachia",
+    "type": "gloves"
+  },
+  {
+    "id": "76",
+    "name": "Butterfly Elytra",
+    "type": "waist"
+  },
+  {
+    "id": "77",
+    "name": "Butterfly Crura",
+    "type": "legs"
+  },
+  {
+    "id": "78",
+    "name": "Shamos Goggles",
+    "type": "head"
+  },
+  {
+    "id": "79",
+    "name": "Hornetaur Helm",
+    "type": "head"
+  },
+  {
+    "id": "80",
+    "name": "Hornetaur Mail",
+    "type": "chest"
+  },
+  {
+    "id": "81",
+    "name": "Hornetaur Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "82",
+    "name": "Hornetaur Coil",
+    "type": "waist"
+  },
+  {
+    "id": "83",
+    "name": "Hornetaur Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "84",
+    "name": "Anja Helm",
+    "type": "head"
+  },
+  {
+    "id": "85",
+    "name": "Anja Mail",
+    "type": "chest"
+  },
+  {
+    "id": "86",
+    "name": "Anja Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "87",
+    "name": "Anja Coil",
+    "type": "waist"
+  },
+  {
+    "id": "88",
+    "name": "Anja Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "89",
+    "name": "Rathian Helm",
+    "type": "head"
+  },
+  {
+    "id": "90",
+    "name": "Rathian Mail",
+    "type": "chest"
+  },
+  {
+    "id": "91",
+    "name": "Rathian Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "92",
+    "name": "Rathian Coil",
+    "type": "waist"
+  },
+  {
+    "id": "93",
+    "name": "Rathian Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "94",
+    "name": "Tzitzi Headgear",
+    "type": "head"
+  },
+  {
+    "id": "95",
+    "name": "Tzitzi Mail",
+    "type": "chest"
+  },
+  {
+    "id": "96",
+    "name": "Tzitzi Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "97",
+    "name": "Tzitzi Coil",
+    "type": "waist"
+  },
+  {
+    "id": "98",
+    "name": "Tzitzi Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "99",
+    "name": "Lumu Hat",
+    "type": "head"
+  },
+  {
+    "id": "100",
+    "name": "Lumu Mail",
+    "type": "chest"
+  },
+  {
+    "id": "101",
+    "name": "Lumu Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "102",
+    "name": "Lumu Coil",
+    "type": "waist"
+  },
+  {
+    "id": "103",
+    "name": "Lumu Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "104",
+    "name": "Girros Mask",
+    "type": "head"
+  },
+  {
+    "id": "105",
+    "name": "Girros Mail",
+    "type": "chest"
+  },
+  {
+    "id": "106",
+    "name": "Girros Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "107",
+    "name": "Girros Coil",
+    "type": "waist"
+  },
+  {
+    "id": "108",
+    "name": "Girros Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "109",
+    "name": "Baan Helm",
+    "type": "head"
+  },
+  {
+    "id": "110",
+    "name": "Baan Mail",
+    "type": "chest"
+  },
+  {
+    "id": "111",
+    "name": "Baan Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "112",
+    "name": "Baan Coil",
+    "type": "waist"
+  },
+  {
+    "id": "113",
+    "name": "Baan Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "114",
+    "name": "Ingot Helm",
+    "type": "head"
+  },
+  {
+    "id": "115",
+    "name": "Ingot Mail",
+    "type": "chest"
+  },
+  {
+    "id": "116",
+    "name": "Ingot Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "117",
+    "name": "Ingot Coil",
+    "type": "waist"
+  },
+  {
+    "id": "118",
+    "name": "Ingot Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "119",
+    "name": "Death Stench Brain",
+    "type": "head"
+  },
+  {
+    "id": "120",
+    "name": "Death Stench Muscle",
+    "type": "chest"
+  },
+  {
+    "id": "121",
+    "name": "Death Stench Grip",
+    "type": "gloves"
+  },
+  {
+    "id": "122",
+    "name": "Death Stench Bowels",
+    "type": "waist"
+  },
+  {
+    "id": "123",
+    "name": "Death Stench Heels",
+    "type": "legs"
+  },
+  {
+    "id": "124",
+    "name": "Brigade Lobos",
+    "type": "head"
+  },
+  {
+    "id": "125",
+    "name": "Brigade Suit",
+    "type": "chest"
+  },
+  {
+    "id": "126",
+    "name": "Brigade Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "127",
+    "name": "Brigade Coil",
+    "type": "waist"
+  },
+  {
+    "id": "128",
+    "name": "Brigade Boots",
+    "type": "legs"
+  },
+  {
+    "id": "129",
+    "name": "Legiana Helm",
+    "type": "head"
+  },
+  {
+    "id": "130",
+    "name": "Legiana Mail",
+    "type": "chest"
+  },
+  {
+    "id": "131",
+    "name": "Legiana Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "132",
+    "name": "Legiana Coil",
+    "type": "waist"
+  },
+  {
+    "id": "133",
+    "name": "Legiana Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "134",
+    "name": "Odogaron Helm",
+    "type": "head"
+  },
+  {
+    "id": "135",
+    "name": "Odogaron Mail",
+    "type": "chest"
+  },
+  {
+    "id": "136",
+    "name": "Odogaron Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "137",
+    "name": "Odogaron Coil",
+    "type": "waist"
+  },
+  {
+    "id": "138",
+    "name": "Odogaron Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "139",
+    "name": "Rathalos Helm",
+    "type": "head"
+  },
+  {
+    "id": "140",
+    "name": "Rathalos Mail",
+    "type": "chest"
+  },
+  {
+    "id": "141",
+    "name": "Rathalos Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "142",
+    "name": "Rathalos Coil",
+    "type": "waist"
+  },
+  {
+    "id": "143",
+    "name": "Rathalos Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "144",
+    "name": "Diablos Helm",
+    "type": "head"
+  },
+  {
+    "id": "145",
+    "name": "Diablos Mail",
+    "type": "chest"
+  },
+  {
+    "id": "146",
+    "name": "Diablos Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "147",
+    "name": "Diablos Coil",
+    "type": "waist"
+  },
+  {
+    "id": "148",
+    "name": "Diablos Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "149",
+    "name": "Kirin Horn",
+    "type": "head"
+  },
+  {
+    "id": "150",
+    "name": "Kirin Jacket",
+    "type": "chest"
+  },
+  {
+    "id": "151",
+    "name": "Kirin Longarms",
+    "type": "gloves"
+  },
+  {
+    "id": "152",
+    "name": "Kirin Hoop",
+    "type": "waist"
+  },
+  {
+    "id": "153",
+    "name": "Kirin Leg Guards",
+    "type": "legs"
+  },
+  {
+    "id": "154",
+    "name": "Leather Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "155",
+    "name": "Leather Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "156",
+    "name": "Leather Gloves Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "157",
+    "name": "Leather Belt Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "158",
+    "name": "Leather Trousers Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "159",
+    "name": "Leather Headgear Beta",
+    "type": "head"
+  },
+  {
+    "id": "160",
+    "name": "Leather Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "161",
+    "name": "Leather Gloves Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "162",
+    "name": "Leather Belt Beta",
+    "type": "waist"
+  },
+  {
+    "id": "163",
+    "name": "Leather Trousers Beta",
+    "type": "legs"
+  },
+  {
+    "id": "164",
+    "name": "Chainmail Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "165",
+    "name": "Chainmail Armor Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "166",
+    "name": "Chainmail Gloves Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "167",
+    "name": "Chainmail Belt Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "168",
+    "name": "Chainmail Trousers Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "169",
+    "name": "Chainmail Headgear Beta",
+    "type": "head"
+  },
+  {
+    "id": "170",
+    "name": "Chainmail Armor Beta",
+    "type": "chest"
+  },
+  {
+    "id": "171",
+    "name": "Chainmail Gloves Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "172",
+    "name": "Chainmail Belt Beta",
+    "type": "waist"
+  },
+  {
+    "id": "173",
+    "name": "Chainmail Trousers Beta",
+    "type": "legs"
+  },
+  {
+    "id": "174",
+    "name": "Hunter's Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "175",
+    "name": "Hunter's Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "176",
+    "name": "Hunter's Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "177",
+    "name": "Hunter's Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "178",
+    "name": "Hunter's Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "179",
+    "name": "Hunter's Headgear Beta",
+    "type": "head"
+  },
+  {
+    "id": "180",
+    "name": "Hunter's Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "181",
+    "name": "Hunter's Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "182",
+    "name": "Hunter's Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "183",
+    "name": "Hunter's Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "184",
+    "name": "Bone Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "185",
+    "name": "Bone Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "186",
+    "name": "Bone Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "187",
+    "name": "Bone Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "188",
+    "name": "Bone Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "189",
+    "name": "Bone Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "190",
+    "name": "Bone Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "191",
+    "name": "Bone Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "192",
+    "name": "Bone Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "193",
+    "name": "Bone Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "194",
+    "name": "Alloy Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "195",
+    "name": "Alloy Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "196",
+    "name": "Alloy Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "197",
+    "name": "Alloy Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "198",
+    "name": "Alloy Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "199",
+    "name": "Alloy Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "200",
+    "name": "Alloy Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "201",
+    "name": "Alloy Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "202",
+    "name": "Alloy Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "203",
+    "name": "Alloy Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "204",
+    "name": "King Beetle Vertex Alpha",
+    "type": "head"
+  },
+  {
+    "id": "205",
+    "name": "King Beetle Thorax Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "206",
+    "name": "King Beetle Brachia Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "207",
+    "name": "King Beetle Elytra Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "208",
+    "name": "King Beetle Crura Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "209",
+    "name": "King Beetle Vertex Beta",
+    "type": "head"
+  },
+  {
+    "id": "210",
+    "name": "King Beetle Thorax Beta",
+    "type": "chest"
+  },
+  {
+    "id": "211",
+    "name": "King Beetle Brachia Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "212",
+    "name": "King Beetle Elytra Beta",
+    "type": "waist"
+  },
+  {
+    "id": "213",
+    "name": "King Beetle Crura Beta",
+    "type": "legs"
+  },
+  {
+    "id": "214",
+    "name": "Butterfly Vertex Alpha",
+    "type": "head"
+  },
+  {
+    "id": "215",
+    "name": "Butterfly Thorax Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "216",
+    "name": "Butterfly Brachia Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "217",
+    "name": "Butterfly Elytra Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "218",
+    "name": "Butterfly Crura Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "219",
+    "name": "Butterfly Vertex Beta",
+    "type": "head"
+  },
+  {
+    "id": "220",
+    "name": "Butterfly Thorax Beta",
+    "type": "chest"
+  },
+  {
+    "id": "221",
+    "name": "Butterfly Brachia Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "222",
+    "name": "Butterfly Elytra Beta",
+    "type": "waist"
+  },
+  {
+    "id": "223",
+    "name": "Butterfly Crura Beta",
+    "type": "legs"
+  },
+  {
+    "id": "224",
+    "name": "Vespoid Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "225",
+    "name": "Vespoid Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "226",
+    "name": "Vespoid Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "227",
+    "name": "Vespoid Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "228",
+    "name": "Vespoid Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "229",
+    "name": "Vespoid Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "230",
+    "name": "Vespoid Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "231",
+    "name": "Vespoid Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "232",
+    "name": "Vespoid Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "233",
+    "name": "Vespoid Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "234",
+    "name": "Hornetaur Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "235",
+    "name": "Hornetaur Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "236",
+    "name": "Hornetaur Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "237",
+    "name": "Hornetaur Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "238",
+    "name": "Hornetaur Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "239",
+    "name": "Hornetaur Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "240",
+    "name": "Hornetaur Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "241",
+    "name": "Hornetaur Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "242",
+    "name": "Hornetaur Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "243",
+    "name": "Hornetaur Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "244",
+    "name": "Mosswine Mask Alpha",
+    "type": "head"
+  },
+  {
+    "id": "245",
+    "name": "Kestodon Guards Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "246",
+    "name": "Kestodon Guards Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "247",
+    "name": "Gajau Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "248",
+    "name": "Gajau Boots Beta",
+    "type": "legs"
+  },
+  {
+    "id": "249",
+    "name": "Shamos Goggles Alpha",
+    "type": "head"
+  },
+  {
+    "id": "250",
+    "name": "Shamos Goggles Beta",
+    "type": "head"
+  },
+  {
+    "id": "251",
+    "name": "Jagras Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "252",
+    "name": "Jagras Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "253",
+    "name": "Jagras Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "254",
+    "name": "Jagras Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "255",
+    "name": "Jagras Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "256",
+    "name": "Jagras Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "257",
+    "name": "Jagras Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "258",
+    "name": "Jagras Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "259",
+    "name": "Jagras Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "260",
+    "name": "Jagras Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "261",
+    "name": "Kulu Headpiece Alpha",
+    "type": "head"
+  },
+  {
+    "id": "262",
+    "name": "Kulu Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "263",
+    "name": "Kulu Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "264",
+    "name": "Kulu Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "265",
+    "name": "Kulu Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "266",
+    "name": "Kulu Headpiece Beta",
+    "type": "head"
+  },
+  {
+    "id": "267",
+    "name": "Kulu Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "268",
+    "name": "Kulu Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "269",
+    "name": "Kulu Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "270",
+    "name": "Kulu Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "271",
+    "name": "Tzitzi Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "272",
+    "name": "Tzitzi Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "273",
+    "name": "Tzitzi Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "274",
+    "name": "Tzitzi Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "275",
+    "name": "Tzitzi Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "276",
+    "name": "Tzitzi Headgear Beta",
+    "type": "head"
+  },
+  {
+    "id": "277",
+    "name": "Tzitzi Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "278",
+    "name": "Tzitzi Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "279",
+    "name": "Tzitzi Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "280",
+    "name": "Tzitzi Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "281",
+    "name": "Girros Mask Alpha",
+    "type": "head"
+  },
+  {
+    "id": "282",
+    "name": "Girros Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "283",
+    "name": "Girros Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "284",
+    "name": "Girros Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "285",
+    "name": "Girros Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "286",
+    "name": "Girros Mask Beta",
+    "type": "head"
+  },
+  {
+    "id": "287",
+    "name": "Girros Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "288",
+    "name": "Girros Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "289",
+    "name": "Girros Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "290",
+    "name": "Girros Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "291",
+    "name": "Pukei Hood Alpha",
+    "type": "head"
+  },
+  {
+    "id": "292",
+    "name": "Pukei Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "293",
+    "name": "Pukei Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "294",
+    "name": "Pukei Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "295",
+    "name": "Pukei Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "296",
+    "name": "Pukei Hood Beta",
+    "type": "head"
+  },
+  {
+    "id": "297",
+    "name": "Pukei Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "298",
+    "name": "Pukei Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "299",
+    "name": "Pukei Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "300",
+    "name": "Pukei Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "301",
+    "name": "Barroth Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "302",
+    "name": "Barroth Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "303",
+    "name": "Barroth Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "304",
+    "name": "Barroth Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "305",
+    "name": "Barroth Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "306",
+    "name": "Barroth Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "307",
+    "name": "Barroth Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "308",
+    "name": "Barroth Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "309",
+    "name": "Barroth Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "310",
+    "name": "Barroth Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "311",
+    "name": "Anja Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "312",
+    "name": "Anja Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "313",
+    "name": "Anja Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "314",
+    "name": "Anja Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "315",
+    "name": "Anja Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "316",
+    "name": "Anja Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "317",
+    "name": "Anja Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "318",
+    "name": "Anja Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "319",
+    "name": "Anja Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "320",
+    "name": "Anja Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "321",
+    "name": "Jyura Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "322",
+    "name": "Jyura Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "323",
+    "name": "Jyura Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "324",
+    "name": "Jyura Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "325",
+    "name": "Jyura Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "326",
+    "name": "Jyura Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "327",
+    "name": "Jyura Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "328",
+    "name": "Jyura Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "329",
+    "name": "Jyura Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "330",
+    "name": "Jyura Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "331",
+    "name": "Kadachi Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "332",
+    "name": "Kadachi Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "333",
+    "name": "Kadachi Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "334",
+    "name": "Kadachi Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "335",
+    "name": "Kadachi Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "336",
+    "name": "Kadachi Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "337",
+    "name": "Kadachi Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "338",
+    "name": "Kadachi Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "339",
+    "name": "Kadachi Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "340",
+    "name": "Kadachi Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "341",
+    "name": "Lumu Hat Alpha",
+    "type": "head"
+  },
+  {
+    "id": "342",
+    "name": "Lumu Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "343",
+    "name": "Lumu Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "344",
+    "name": "Lumu Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "345",
+    "name": "Lumu Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "346",
+    "name": "Lumu Hat Beta",
+    "type": "head"
+  },
+  {
+    "id": "347",
+    "name": "Lumu Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "348",
+    "name": "Lumu Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "349",
+    "name": "Lumu Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "350",
+    "name": "Lumu Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "351",
+    "name": "Rathian Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "352",
+    "name": "Rathian Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "353",
+    "name": "Rathian Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "354",
+    "name": "Rathian Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "355",
+    "name": "Rathian Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "356",
+    "name": "Rathian Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "357",
+    "name": "Rathian Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "358",
+    "name": "Rathian Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "359",
+    "name": "Rathian Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "360",
+    "name": "Rathian Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "361",
+    "name": "Rath Heart Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "362",
+    "name": "Rath Heart Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "363",
+    "name": "Rath Heart Braces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "364",
+    "name": "Rath Heart Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "365",
+    "name": "Rath Heart Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "366",
+    "name": "Rath Heart Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "367",
+    "name": "Rath Heart Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "368",
+    "name": "Rath Heart Braces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "369",
+    "name": "Rath Heart Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "370",
+    "name": "Rath Heart Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "371",
+    "name": "Baan Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "372",
+    "name": "Baan Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "373",
+    "name": "Baan Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "374",
+    "name": "Baan Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "375",
+    "name": "Baan Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "376",
+    "name": "Baan Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "377",
+    "name": "Baan Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "378",
+    "name": "Baan Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "379",
+    "name": "Baan Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "380",
+    "name": "Baan Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "381",
+    "name": "Gastodon Horn Alpha",
+    "type": "head"
+  },
+  {
+    "id": "382",
+    "name": "Gastodon Horn Beta",
+    "type": "head"
+  },
+  {
+    "id": "383",
+    "name": "Barnos Jacket Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "384",
+    "name": "Barnos Jacket Beta",
+    "type": "chest"
+  },
+  {
+    "id": "385",
+    "name": "Dodogama Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "386",
+    "name": "Dodogama Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "387",
+    "name": "Dodogama Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "388",
+    "name": "Dodogama Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "389",
+    "name": "Dodogama Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "390",
+    "name": "Dodogama Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "391",
+    "name": "Dodogama Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "392",
+    "name": "Dodogama Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "393",
+    "name": "Dodogama Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "394",
+    "name": "Dodogama Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "395",
+    "name": "Zorah Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "396",
+    "name": "Zorah Hide Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "397",
+    "name": "Zorah Claws Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "398",
+    "name": "Zorah Spine Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "399",
+    "name": "Zorah Spurs Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "400",
+    "name": "Zorah Headgear Beta",
+    "type": "head"
+  },
+  {
+    "id": "401",
+    "name": "Zorah Hide Beta",
+    "type": "chest"
+  },
+  {
+    "id": "402",
+    "name": "Zorah Claws Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "403",
+    "name": "Zorah Spine Beta",
+    "type": "waist"
+  },
+  {
+    "id": "404",
+    "name": "Zorah Spurs Beta",
+    "type": "legs"
+  },
+  {
+    "id": "405",
+    "name": "High Metal Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "406",
+    "name": "High Metal Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "407",
+    "name": "High Metal Braces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "408",
+    "name": "High Metal Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "409",
+    "name": "High Metal Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "410",
+    "name": "High Metal Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "411",
+    "name": "High Metal Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "412",
+    "name": "High Metal Braces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "413",
+    "name": "High Metal Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "414",
+    "name": "High Metal Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "415",
+    "name": "Ingot Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "416",
+    "name": "Ingot Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "417",
+    "name": "Ingot Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "418",
+    "name": "Ingot Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "419",
+    "name": "Ingot Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "420",
+    "name": "Ingot Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "421",
+    "name": "Ingot Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "422",
+    "name": "Ingot Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "423",
+    "name": "Ingot Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "424",
+    "name": "Ingot Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "425",
+    "name": "Brigade Lobos Alpha",
+    "type": "head"
+  },
+  {
+    "id": "426",
+    "name": "Brigade Suit Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "427",
+    "name": "Brigade Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "428",
+    "name": "Brigade Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "429",
+    "name": "Brigade Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "430",
+    "name": "Brigade Lobos Beta",
+    "type": "head"
+  },
+  {
+    "id": "431",
+    "name": "Brigade Suit Beta",
+    "type": "chest"
+  },
+  {
+    "id": "432",
+    "name": "Brigade Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "433",
+    "name": "Brigade Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "434",
+    "name": "Brigade Boots Beta",
+    "type": "legs"
+  },
+  {
+    "id": "435",
+    "name": "Faux Felyne Alpha",
+    "type": "head"
+  },
+  {
+    "id": "436",
+    "name": "Strategist Spectacles Alpha",
+    "type": "head"
+  },
+  {
+    "id": "437",
+    "name": "Lavasioth Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "438",
+    "name": "Lavasioth Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "439",
+    "name": "Lavasioth Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "440",
+    "name": "Lavasioth Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "441",
+    "name": "Lavasioth Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "442",
+    "name": "Lavasioth Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "443",
+    "name": "Lavasioth Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "444",
+    "name": "Lavasioth Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "445",
+    "name": "Lavasioth Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "446",
+    "name": "Lavasioth Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "447",
+    "name": "Legiana Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "448",
+    "name": "Legiana Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "449",
+    "name": "Legiana Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "450",
+    "name": "Legiana Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "451",
+    "name": "Legiana Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "452",
+    "name": "Legiana Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "453",
+    "name": "Legiana Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "454",
+    "name": "Legiana Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "455",
+    "name": "Legiana Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "456",
+    "name": "Legiana Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "457",
+    "name": "Odogaron Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "458",
+    "name": "Odogaron Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "459",
+    "name": "Odogaron Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "460",
+    "name": "Odogaron Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "461",
+    "name": "Odogaron Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "462",
+    "name": "Odogaron Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "463",
+    "name": "Odogaron Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "464",
+    "name": "Odogaron Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "465",
+    "name": "Odogaron Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "466",
+    "name": "Odogaron Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "467",
+    "name": "Rathalos Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "468",
+    "name": "Rathalos Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "469",
+    "name": "Rathalos Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "470",
+    "name": "Rathalos Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "471",
+    "name": "Rathalos Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "472",
+    "name": "Rathalos Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "473",
+    "name": "Rathalos Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "474",
+    "name": "Rathalos Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "475",
+    "name": "Rathalos Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "476",
+    "name": "Rathalos Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "477",
+    "name": "Rath Soul Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "478",
+    "name": "Rath Soul Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "479",
+    "name": "Rath Soul Braces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "480",
+    "name": "Rath Soul Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "481",
+    "name": "Rath Soul Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "482",
+    "name": "Rath Soul Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "483",
+    "name": "Rath Soul Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "484",
+    "name": "Rath Soul Braces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "485",
+    "name": "Rath Soul Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "486",
+    "name": "Rath Soul Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "487",
+    "name": "Diablos Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "488",
+    "name": "Diablos Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "489",
+    "name": "Diablos Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "490",
+    "name": "Diablos Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "491",
+    "name": "Diablos Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "492",
+    "name": "Diablos Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "493",
+    "name": "Diablos Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "494",
+    "name": "Diablos Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "495",
+    "name": "Diablos Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "496",
+    "name": "Diablos Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "497",
+    "name": "Diablos Nero Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "498",
+    "name": "Diablos Nero Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "499",
+    "name": "Diablos Nero Braces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "500",
+    "name": "Diablos Nero Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "501",
+    "name": "Diablos Nero Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "502",
+    "name": "Diablos Nero Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "503",
+    "name": "Diablos Nero Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "504",
+    "name": "Diablos Nero Braces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "505",
+    "name": "Diablos Nero Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "506",
+    "name": "Diablos Nero Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "507",
+    "name": "Uragaan Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "508",
+    "name": "Uragaan Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "509",
+    "name": "Uragaan Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "510",
+    "name": "Uragaan Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "511",
+    "name": "Uragaan Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "512",
+    "name": "Uragaan Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "513",
+    "name": "Uragaan Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "514",
+    "name": "Uragaan Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "515",
+    "name": "Uragaan Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "516",
+    "name": "Uragaan Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "517",
+    "name": "Bazel Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "518",
+    "name": "Bazel Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "519",
+    "name": "Bazel Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "520",
+    "name": "Bazel Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "521",
+    "name": "Bazel Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "522",
+    "name": "Bazel Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "523",
+    "name": "Bazel Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "524",
+    "name": "Bazel Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "525",
+    "name": "Bazel Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "526",
+    "name": "Bazel Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "527",
+    "name": "Damascus Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "528",
+    "name": "Damascus Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "529",
+    "name": "Damascus Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "530",
+    "name": "Damascus Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "531",
+    "name": "Damascus Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "532",
+    "name": "Damascus Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "533",
+    "name": "Damascus Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "534",
+    "name": "Damascus Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "535",
+    "name": "Damascus Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "536",
+    "name": "Damascus Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "537",
+    "name": "Dober Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "538",
+    "name": "Dober Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "539",
+    "name": "Dober Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "540",
+    "name": "Dober Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "541",
+    "name": "Dober Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "542",
+    "name": "Dober Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "543",
+    "name": "Dober Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "544",
+    "name": "Dober Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "545",
+    "name": "Dober Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "546",
+    "name": "Dober Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "547",
+    "name": "Death Stench Brain Alpha",
+    "type": "head"
+  },
+  {
+    "id": "548",
+    "name": "Death Stench Muscle Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "549",
+    "name": "Death Stench Grip Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "550",
+    "name": "Death Stench Bowels Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "551",
+    "name": "Death Stench Heel Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "552",
+    "name": "Death Stench Brain Beta",
+    "type": "head"
+  },
+  {
+    "id": "553",
+    "name": "Death Stench Muscle Beta",
+    "type": "chest"
+  },
+  {
+    "id": "554",
+    "name": "Death Stench Grip Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "555",
+    "name": "Death Stench Bowels Beta",
+    "type": "waist"
+  },
+  {
+    "id": "556",
+    "name": "Death Stench Heel Beta",
+    "type": "legs"
+  },
+  {
+    "id": "557",
+    "name": "Skull Mask Alpha",
+    "type": "head"
+  },
+  {
+    "id": "558",
+    "name": "Nergigante Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "559",
+    "name": "Nergigante Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "560",
+    "name": "Nergigante Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "561",
+    "name": "Nergigante Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "562",
+    "name": "Nergigante Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "563",
+    "name": "Nergigante Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "564",
+    "name": "Nergigante Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "565",
+    "name": "Nergigante Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "566",
+    "name": "Nergigante Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "567",
+    "name": "Nergigante Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "568",
+    "name": "Kaiser Crown Alpha",
+    "type": "head"
+  },
+  {
+    "id": "569",
+    "name": "Kaiser Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "570",
+    "name": "Kaiser Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "571",
+    "name": "Kaiser Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "572",
+    "name": "Kaiser Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "573",
+    "name": "Kaiser Crown Beta",
+    "type": "head"
+  },
+  {
+    "id": "574",
+    "name": "Kaiser Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "575",
+    "name": "Kaiser Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "576",
+    "name": "Kaiser Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "577",
+    "name": "Kaiser Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "578",
+    "name": "Kushala Glare Alpha",
+    "type": "head"
+  },
+  {
+    "id": "579",
+    "name": "Kushala Cista Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "580",
+    "name": "Kushala Grip Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "581",
+    "name": "Kushala Cocoon Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "582",
+    "name": "Kushala Crus Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "583",
+    "name": "Kushala Glare Beta",
+    "type": "head"
+  },
+  {
+    "id": "584",
+    "name": "Kushala Cista Beta",
+    "type": "chest"
+  },
+  {
+    "id": "585",
+    "name": "Kushala Grip Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "586",
+    "name": "Kushala Cocoon Beta",
+    "type": "waist"
+  },
+  {
+    "id": "587",
+    "name": "Kushala Crus Beta",
+    "type": "legs"
+  },
+  {
+    "id": "588",
+    "name": "Vaal Hazak Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "589",
+    "name": "Vaal Hazak Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "590",
+    "name": "Vaal Hazak Braces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "591",
+    "name": "Vaal Hazak Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "592",
+    "name": "Vaal Hazak Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "593",
+    "name": "Vaal Hazak Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "594",
+    "name": "Vaal Hazak Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "595",
+    "name": "Vaal Hazak Braces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "596",
+    "name": "Vaal Hazak Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "597",
+    "name": "Vaal Hazak Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "598",
+    "name": "Kirin Horn Alpha",
+    "type": "head"
+  },
+  {
+    "id": "599",
+    "name": "Kirin Jacket Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "600",
+    "name": "Kirin Longarms Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "601",
+    "name": "Kirin Hoop Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "602",
+    "name": "Kirin Leg Guards Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "603",
+    "name": "Kirin Horn Beta",
+    "type": "head"
+  },
+  {
+    "id": "604",
+    "name": "Kirin Jacket Beta",
+    "type": "chest"
+  },
+  {
+    "id": "605",
+    "name": "Kirin Longarms Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "606",
+    "name": "Kirin Hoop Beta",
+    "type": "waist"
+  },
+  {
+    "id": "607",
+    "name": "Kirin Leg Guards Beta",
+    "type": "legs"
+  },
+  {
+    "id": "608",
+    "name": "Xeno'jiiva Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "609",
+    "name": "Xeno'jiiva Hide Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "610",
+    "name": "Xeno'jiiva Claws Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "611",
+    "name": "Xeno'jiiva Spine Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "612",
+    "name": "Xeno'jiiva Spurs Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "613",
+    "name": "Xeno'jiiva Headgear Beta",
+    "type": "head"
+  },
+  {
+    "id": "614",
+    "name": "Xeno'jiiva Hide Beta",
+    "type": "chest"
+  },
+  {
+    "id": "615",
+    "name": "Xeno'jiiva Claws Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "616",
+    "name": "Xeno'jiiva Spine Beta",
+    "type": "waist"
+  },
+  {
+    "id": "617",
+    "name": "Xeno'jiiva Spurs Beta",
+    "type": "legs"
+  },
+  {
+    "id": "618",
+    "name": "Guild Cross Circlet Alpha",
+    "type": "head"
+  },
+  {
+    "id": "619",
+    "name": "Guild Cross Suit Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "620",
+    "name": "Guild Cross Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "621",
+    "name": "Guild Cross Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "622",
+    "name": "Guild Cross Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "623",
+    "name": "Guild Cross Circlet Beta",
+    "type": "head"
+  },
+  {
+    "id": "624",
+    "name": "Guild Cross Suit Beta",
+    "type": "chest"
+  },
+  {
+    "id": "625",
+    "name": "Guild Cross Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "626",
+    "name": "Guild Cross Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "627",
+    "name": "Guild Cross Boots Beta",
+    "type": "legs"
+  },
+  {
+    "id": "628",
+    "name": "Dragonking Eyepatch Alpha",
+    "type": "head"
+  },
+  {
+    "id": "629",
+    "name": "Commission Gorget Alpha",
+    "type": "head"
+  },
+  {
+    "id": "630",
+    "name": "Commission Jacket Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "631",
+    "name": "Commission Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "632",
+    "name": "Commission Belt Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "633",
+    "name": "Commission Pants Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "634",
+    "name": "Commission Gorget Beta",
+    "type": "head"
+  },
+  {
+    "id": "635",
+    "name": "Commission Jacket Beta",
+    "type": "chest"
+  },
+  {
+    "id": "636",
+    "name": "Commission Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "637",
+    "name": "Commission Belt Beta",
+    "type": "waist"
+  },
+  {
+    "id": "638",
+    "name": "Commission Pants Beta",
+    "type": "legs"
+  },
+  {
+    "id": "639",
+    "name": "Sealed Eyepatch Alpha",
+    "type": "head"
+  },
+  {
+    "id": "640",
+    "name": "Vangis Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "641",
+    "name": "Vangis Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "642",
+    "name": "Vangis Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "643",
+    "name": "Vangis Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "644",
+    "name": "Vangis Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "645",
+    "name": "Vangis Helm Beta",
+    "type": "head"
+  },
+  {
+    "id": "646",
+    "name": "Vangis Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "647",
+    "name": "Vangis Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "648",
+    "name": "Vangis Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "649",
+    "name": "Vangis Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "650",
+    "name": "Shadow Shades Alpha",
+    "type": "head"
+  },
+  {
+    "id": "651",
+    "name": "Blossom Headgear",
+    "type": "head"
+  },
+  {
+    "id": "652",
+    "name": "Blossom Vest",
+    "type": "chest"
+  },
+  {
+    "id": "653",
+    "name": "Blossom Cuffs",
+    "type": "gloves"
+  },
+  {
+    "id": "654",
+    "name": "Blossom Coat",
+    "type": "waist"
+  },
+  {
+    "id": "655",
+    "name": "Blossom Boots",
+    "type": "legs"
+  },
+  {
+    "id": "661",
+    "name": "Blossom Headgear Alpha",
+    "type": "head"
+  },
+  {
+    "id": "662",
+    "name": "Blossom Vest Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "663",
+    "name": "Blossom Cuffs Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "664",
+    "name": "Blossom Coat Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "665",
+    "name": "Blossom Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "667",
+    "name": "Wiggler Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "668",
+    "name": "Kulve Taroth's Fury Alpha",
+    "type": "head"
+  },
+  {
+    "id": "669",
+    "name": "Kulve Taroth's Ire Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "670",
+    "name": "Kulve Taroth's Rage Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "671",
+    "name": "Kulve Taroth's Malice Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "672",
+    "name": "Kulve Taroth's Wrath Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "673",
+    "name": "Kulve Taroth's Fury Beta",
+    "type": "head"
+  },
+  {
+    "id": "674",
+    "name": "Kulve Taroth's Ire Beta",
+    "type": "chest"
+  },
+  {
+    "id": "675",
+    "name": "Kulve Taroth's Rage Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "676",
+    "name": "Kulve Taroth's Malice Beta",
+    "type": "waist"
+  },
+  {
+    "id": "677",
+    "name": "Kulve Taroth's Wrath Beta",
+    "type": "legs"
+  },
+  {
+    "id": "678",
+    "name": "Kirin Horn Gamma",
+    "type": "head"
+  },
+  {
+    "id": "679",
+    "name": "Kirin Jacket Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "680",
+    "name": "Kirin Longarms Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "681",
+    "name": "Kirin Hoop Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "682",
+    "name": "Kirin Leg Guards Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "683",
+    "name": "Dante's Hair Alpha",
+    "type": "head"
+  },
+  {
+    "id": "684",
+    "name": "Dante's Coat Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "685",
+    "name": "Dante's Gloves Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "686",
+    "name": "Dante's Belt Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "687",
+    "name": "Dante's Leather Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "688",
+    "name": "Empress Crown Alpha",
+    "type": "head"
+  },
+  {
+    "id": "689",
+    "name": "Empress Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "690",
+    "name": "Empress Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "691",
+    "name": "Empress Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "692",
+    "name": "Empress Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "693",
+    "name": "Empress Crown Beta",
+    "type": "head"
+  },
+  {
+    "id": "694",
+    "name": "Empress Mail Beta",
+    "type": "chest"
+  },
+  {
+    "id": "695",
+    "name": "Empress Vambraces Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "696",
+    "name": "Empress Coil Beta",
+    "type": "waist"
+  },
+  {
+    "id": "697",
+    "name": "Empress Greaves Beta",
+    "type": "legs"
+  },
+  {
+    "id": "698",
+    "name": "Kulu-Ya-Ku Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "699",
+    "name": "Vaal Hazak Helm Gamma",
+    "type": "head"
+  },
+  {
+    "id": "700",
+    "name": "Vaal Hazak Mail Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "701",
+    "name": "Vaal Hazak Braces Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "702",
+    "name": "Vaal Hazak Coil Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "703",
+    "name": "Vaal Hazak Greaves Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "704",
+    "name": "Drachen Armet Alpha",
+    "type": "head"
+  },
+  {
+    "id": "705",
+    "name": "Drachen Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "706",
+    "name": "Drachen Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "707",
+    "name": "Drachen Coil Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "708",
+    "name": "Drachen Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "709",
+    "name": "Azure Starlord Crown Alpha",
+    "type": "head"
+  },
+  {
+    "id": "710",
+    "name": "Azure Starlord Armor Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "711",
+    "name": "Azure Starlord Gauntlets Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "712",
+    "name": "Azure Starlord Tassets Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "713",
+    "name": "Azure Starlord Guards Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "714",
+    "name": "Kulve Taroth's Fury Gamma",
+    "type": "head"
+  },
+  {
+    "id": "715",
+    "name": "Kulve Taroth's Ire Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "716",
+    "name": "Kulve Taroth's Rage Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "717",
+    "name": "Kulve Taroth's Malice Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "718",
+    "name": "Kulve Taroth's Wrath Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "719",
+    "name": "Empress Crown Gamma",
+    "type": "head"
+  },
+  {
+    "id": "720",
+    "name": "Empress Mail Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "721",
+    "name": "Empress Vambraces Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "722",
+    "name": "Empress Coil Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "723",
+    "name": "Empress Greaves Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "724",
+    "name": "Xeno'jiiva Headgear Gamma",
+    "type": "head"
+  },
+  {
+    "id": "725",
+    "name": "Xeno'jiiva Hide Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "726",
+    "name": "Xeno'jiiva Claws Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "727",
+    "name": "Xeno'jiiva Spine Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "728",
+    "name": "Xeno'jiiva Spurs Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "729",
+    "name": "Zorah Headgear Gamma",
+    "type": "head"
+  },
+  {
+    "id": "730",
+    "name": "Zorah Hide Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "731",
+    "name": "Zorah Claws Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "732",
+    "name": "Zorah Spine Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "733",
+    "name": "Zorah Spurs Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "734",
+    "name": "Nergigante Helm Gamma",
+    "type": "head"
+  },
+  {
+    "id": "735",
+    "name": "Nergigante Mail Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "736",
+    "name": "Nergigante Vambraces Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "737",
+    "name": "Nergigante Coil Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "738",
+    "name": "Nergigante Greaves Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "739",
+    "name": "Kushala Glare Gamma",
+    "type": "head"
+  },
+  {
+    "id": "740",
+    "name": "Kushala Cista Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "741",
+    "name": "Kushala Grip Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "742",
+    "name": "Kushala Cocoon Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "743",
+    "name": "Kushala Crus Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "744",
+    "name": "Kaiser Crown Gamma",
+    "type": "head"
+  },
+  {
+    "id": "745",
+    "name": "Kaiser Mail Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "746",
+    "name": "Kaiser Vambraces Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "747",
+    "name": "Kaiser Coil Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "748",
+    "name": "Kaiser Greaves Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "749",
+    "name": "Bone Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "750",
+    "name": "Bone Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "751",
+    "name": "Bone Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "752",
+    "name": "Bone Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "753",
+    "name": "Bone Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "754",
+    "name": "Alloy Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "755",
+    "name": "Alloy Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "756",
+    "name": "Alloy Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "757",
+    "name": "Alloy Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "758",
+    "name": "Alloy Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "759",
+    "name": "Vespoid Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "760",
+    "name": "Vespoid Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "761",
+    "name": "Vespoid Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "762",
+    "name": "Vespoid Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "763",
+    "name": "Vespoid Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "764",
+    "name": "Hornetaur Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "765",
+    "name": "Hornetaur Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "766",
+    "name": "Hornetaur Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "767",
+    "name": "Hornetaur Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "768",
+    "name": "Hornetaur Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "769",
+    "name": "Kestodon Guards Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "770",
+    "name": "Gajau Boots Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "771",
+    "name": "Shamos Goggles Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "772",
+    "name": "Gastodon Horn Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "773",
+    "name": "Barnos Jacket Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "774",
+    "name": "Wulg Scarf Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "775",
+    "name": "Cortos Cape Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "776",
+    "name": "Jagras Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "777",
+    "name": "Jagras Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "778",
+    "name": "Jagras Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "779",
+    "name": "Jagras Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "780",
+    "name": "Jagras Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "781",
+    "name": "Tzitzi Headgear Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "782",
+    "name": "Tzitzi Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "783",
+    "name": "Tzitzi Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "784",
+    "name": "Tzitzi Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "785",
+    "name": "Tzitzi Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "786",
+    "name": "Girros Headgear Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "787",
+    "name": "Girros Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "788",
+    "name": "Girros Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "789",
+    "name": "Girros Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "790",
+    "name": "Girros Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "791",
+    "name": "Dodogama Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "792",
+    "name": "Dodogama Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "793",
+    "name": "Dodogama Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "794",
+    "name": "Dodogama Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "795",
+    "name": "Dodogama Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "796",
+    "name": "Kulu Headpiece Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "797",
+    "name": "Kulu Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "798",
+    "name": "Kulu Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "799",
+    "name": "Kulu Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "800",
+    "name": "Kulu Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "801",
+    "name": "Pukei Hat Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "802",
+    "name": "Pukei Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "803",
+    "name": "Pukei Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "804",
+    "name": "Pukei Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "805",
+    "name": "Pukei Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "806",
+    "name": "Pukei Lagoon Hat Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "807",
+    "name": "Pukei Lagoon Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "808",
+    "name": "Pukei Lagoon Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "809",
+    "name": "Pukei Lagoon Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "810",
+    "name": "Pukei Lagoon Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "811",
+    "name": "Barroth Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "812",
+    "name": "Barroth Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "813",
+    "name": "Barroth Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "814",
+    "name": "Barroth Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "815",
+    "name": "Barroth Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "816",
+    "name": "Jyura Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "817",
+    "name": "Jyura Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "818",
+    "name": "Jyura Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "819",
+    "name": "Jyura Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "820",
+    "name": "Jyura Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "821",
+    "name": "Beo Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "822",
+    "name": "Beo Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "823",
+    "name": "Beo Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "824",
+    "name": "Beo Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "825",
+    "name": "Beo Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "826",
+    "name": "Kadachi Hat Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "827",
+    "name": "Kadachi Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "828",
+    "name": "Kadachi Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "829",
+    "name": "Kadachi Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "830",
+    "name": "Kadachi Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "831",
+    "name": "Viper Kadachi Hat Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "832",
+    "name": "Viper Kadachi Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "833",
+    "name": "Viper Kadachi Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "834",
+    "name": "Viper Kadachi Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "835",
+    "name": "Viper Kadachi Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "836",
+    "name": "High Metal Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "837",
+    "name": "High Metal Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "838",
+    "name": "High Metal Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "839",
+    "name": "High Metal Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "840",
+    "name": "High Metal Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "841",
+    "name": "Banbaro Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "842",
+    "name": "Banbaro Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "843",
+    "name": "Banbaro Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "844",
+    "name": "Banbaro Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "845",
+    "name": "Banbaro Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "846",
+    "name": "Anja Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "847",
+    "name": "Anja Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "848",
+    "name": "Anja Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "849",
+    "name": "Anja Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "850",
+    "name": "Anja Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "851",
+    "name": "Fulgur Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "852",
+    "name": "Fulgur Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "853",
+    "name": "Fulgur Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "854",
+    "name": "Fulgur Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "855",
+    "name": "Fulgur Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "856",
+    "name": "Rathian Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "857",
+    "name": "Rathian Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "858",
+    "name": "Rathian Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "859",
+    "name": "Rathian Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "860",
+    "name": "Rathian Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "861",
+    "name": "Rath Heart Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "862",
+    "name": "Rath Heart Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "863",
+    "name": "Rath Heart Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "864",
+    "name": "Rath Heart Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "865",
+    "name": "Rath Heart Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "866",
+    "name": "Lumu Hat Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "867",
+    "name": "Lumu Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "868",
+    "name": "Lumu Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "869",
+    "name": "Lumu Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "870",
+    "name": "Lumu Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "871",
+    "name": "Lumu Phantasm Hood Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "872",
+    "name": "Lumu Phantasm Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "873",
+    "name": "Lumu Phantasm Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "874",
+    "name": "Lumu Phantasm Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "875",
+    "name": "Lumu Phantasm Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "876",
+    "name": "Baan Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "877",
+    "name": "Baan Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "878",
+    "name": "Baan Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "879",
+    "name": "Baan Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "880",
+    "name": "Baan Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "881",
+    "name": "Bone Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "882",
+    "name": "Bone Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "883",
+    "name": "Bone Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "884",
+    "name": "Bone Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "885",
+    "name": "Bone Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "886",
+    "name": "Alloy Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "887",
+    "name": "Alloy Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "888",
+    "name": "Alloy Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "889",
+    "name": "Alloy Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "890",
+    "name": "Alloy Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "891",
+    "name": "Vespoid Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "892",
+    "name": "Vespoid Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "893",
+    "name": "Vespoid Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "894",
+    "name": "Vespoid Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "895",
+    "name": "Vespoid Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "896",
+    "name": "Hornetaur Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "897",
+    "name": "Hornetaur Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "898",
+    "name": "Hornetaur Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "899",
+    "name": "Hornetaur Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "900",
+    "name": "Hornetaur Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "901",
+    "name": "Kestodon Guards Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "902",
+    "name": "Gajau Boots Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "903",
+    "name": "Shamos Goggles Beta +",
+    "type": "head"
+  },
+  {
+    "id": "904",
+    "name": "Gastodon Horn Beta +",
+    "type": "head"
+  },
+  {
+    "id": "905",
+    "name": "Barnos Jacket Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "906",
+    "name": "Wulg Scarf Beta +",
+    "type": "head"
+  },
+  {
+    "id": "907",
+    "name": "Cortos Cape Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "908",
+    "name": "Jagras Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "909",
+    "name": "Jagras Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "910",
+    "name": "Jagras Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "911",
+    "name": "Jagras Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "912",
+    "name": "Jagras Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "913",
+    "name": "Tzitzi Headgear Beta +",
+    "type": "head"
+  },
+  {
+    "id": "914",
+    "name": "Tzitzi Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "915",
+    "name": "Tzitzi Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "916",
+    "name": "Tzitzi Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "917",
+    "name": "Tzitzi Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "918",
+    "name": "Girros Headgear Beta +",
+    "type": "head"
+  },
+  {
+    "id": "919",
+    "name": "Girros Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "920",
+    "name": "Girros Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "921",
+    "name": "Girros Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "922",
+    "name": "Girros Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "923",
+    "name": "Dodogama Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "924",
+    "name": "Dodogama Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "925",
+    "name": "Dodogama Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "926",
+    "name": "Dodogama Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "927",
+    "name": "Dodogama Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "928",
+    "name": "Kulu Headpiece Beta +",
+    "type": "head"
+  },
+  {
+    "id": "929",
+    "name": "Kulu Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "930",
+    "name": "Kulu Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "931",
+    "name": "Kulu Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "932",
+    "name": "Kulu Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "933",
+    "name": "Pukei Hat Beta +",
+    "type": "head"
+  },
+  {
+    "id": "934",
+    "name": "Pukei Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "935",
+    "name": "Pukei Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "936",
+    "name": "Pukei Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "937",
+    "name": "Pukei Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "938",
+    "name": "Pukei Lagoon Hat Beta +",
+    "type": "head"
+  },
+  {
+    "id": "939",
+    "name": "Pukei Lagoon Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "940",
+    "name": "Pukei Lagoon Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "941",
+    "name": "Pukei Lagoon Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "942",
+    "name": "Pukei Lagoon Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "943",
+    "name": "Barroth Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "944",
+    "name": "Barroth Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "945",
+    "name": "Barroth Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "946",
+    "name": "Barroth Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "947",
+    "name": "Barroth Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "948",
+    "name": "Jyura Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "949",
+    "name": "Jyura Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "950",
+    "name": "Jyura Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "951",
+    "name": "Jyura Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "952",
+    "name": "Jyura Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "953",
+    "name": "Beo Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "954",
+    "name": "Beo Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "955",
+    "name": "Beo Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "956",
+    "name": "Beo Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "957",
+    "name": "Beo Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "958",
+    "name": "Kadachi Hat Beta +",
+    "type": "head"
+  },
+  {
+    "id": "959",
+    "name": "Kadachi Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "960",
+    "name": "Kadachi Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "961",
+    "name": "Kadachi Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "962",
+    "name": "Kadachi Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "963",
+    "name": "Viper Kadachi Hat Beta +",
+    "type": "head"
+  },
+  {
+    "id": "964",
+    "name": "Viper Kadachi Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "965",
+    "name": "Viper Kadachi Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "966",
+    "name": "Viper Kadachi Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "967",
+    "name": "Viper Kadachi Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "968",
+    "name": "High Metal Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "969",
+    "name": "High Metal Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "970",
+    "name": "High Metal Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "971",
+    "name": "High Metal Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "972",
+    "name": "High Metal Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "973",
+    "name": "Banbaro Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "974",
+    "name": "Banbaro Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "975",
+    "name": "Banbaro Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "976",
+    "name": "Banbaro Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "977",
+    "name": "Banbaro Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "978",
+    "name": "Anja Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "980",
+    "name": "Anja Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "981",
+    "name": "Anja Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "982",
+    "name": "Anja Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "983",
+    "name": "Anja Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "984",
+    "name": "Fulgur Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "985",
+    "name": "Fulgur Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "986",
+    "name": "Fulgur Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "987",
+    "name": "Fulgur Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "988",
+    "name": "Fulgur Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "989",
+    "name": "Rathian Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "990",
+    "name": "Rathian Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "991",
+    "name": "Rathian Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "992",
+    "name": "Rathian Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "993",
+    "name": "Rathian Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "994",
+    "name": "Rath Heart Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "995",
+    "name": "Rath Heart Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "996",
+    "name": "Rath Heart Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "997",
+    "name": "Rath Heart Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "998",
+    "name": "Rath Heart Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "999",
+    "name": "Lumu Hat Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1000",
+    "name": "Lumu Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1001",
+    "name": "Lumu Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1002",
+    "name": "Lumu Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1003",
+    "name": "Lumu Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1004",
+    "name": "Lumu Phantasm Hood Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1005",
+    "name": "Lumu Phantasm Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1006",
+    "name": "Lumu Phantasm Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1007",
+    "name": "Lumu Phantasm Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1008",
+    "name": "Lumu Phantasm Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1009",
+    "name": "Baan Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1010",
+    "name": "Baan Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1011",
+    "name": "Baan Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1012",
+    "name": "Baan Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1013",
+    "name": "Baan Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1014",
+    "name": "Artian Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1015",
+    "name": "Artian Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1016",
+    "name": "Artian Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1017",
+    "name": "Artian Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1018",
+    "name": "Artian Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1019",
+    "name": "Artian Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1020",
+    "name": "Artian Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1021",
+    "name": "Artian Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1022",
+    "name": "Artian Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1023",
+    "name": "Artian Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1024",
+    "name": "Clockwork Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1025",
+    "name": "Clockwork Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1026",
+    "name": "Clockwork Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1027",
+    "name": "Clockwork Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1028",
+    "name": "Clockwork Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1029",
+    "name": "Clockwork Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1030",
+    "name": "Clockwork Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1031",
+    "name": "Clockwork Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1032",
+    "name": "Clockwork Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1033",
+    "name": "Clockwork Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1034",
+    "name": "Ingot Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1035",
+    "name": "Ingot Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1036",
+    "name": "Ingot Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1037",
+    "name": "Ingot Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1038",
+    "name": "Ingot Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1039",
+    "name": "Ingot Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1040",
+    "name": "Ingot Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1041",
+    "name": "Ingot Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1042",
+    "name": "Ingot Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1043",
+    "name": "Ingot Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1044",
+    "name": "Pearlspring Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1045",
+    "name": "Guildwork Head Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1046",
+    "name": "Guildwork Body Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1047",
+    "name": "Guildwork Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1048",
+    "name": "Guildwork Waist Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1049",
+    "name": "Guildwork Feet Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1050",
+    "name": "Guildwork Head Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1051",
+    "name": "Guildwork Body Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1052",
+    "name": "Guildwork Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1053",
+    "name": "Guildwork Waist Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1054",
+    "name": "Guildwork Feet Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1055",
+    "name": "Ruinous Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1056",
+    "name": "Ruinous Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1057",
+    "name": "Ruinous Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1058",
+    "name": "Ruinous Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1059",
+    "name": "Ruinous Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1060",
+    "name": "Ruinous Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1061",
+    "name": "Ruinous Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1062",
+    "name": "Ruinous Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1063",
+    "name": "Ruinous Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1064",
+    "name": "Ruinous Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1065",
+    "name": "Silver Solhelm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1066",
+    "name": "Silver Solmail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1067",
+    "name": "Silver Solbraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1068",
+    "name": "Silver Solcoil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1069",
+    "name": "Silver Solgreaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1070",
+    "name": "Silver Solhelm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1071",
+    "name": "Silver Solmail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1072",
+    "name": "Silver Solbraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1073",
+    "name": "Silver Solcoil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1074",
+    "name": "Silver Solgreaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1075",
+    "name": "Golden Lunehelm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1076",
+    "name": "Golden Lunemail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1077",
+    "name": "Golden Lunebraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1078",
+    "name": "Golden Lunecoil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1079",
+    "name": "Golden Lunegreaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1080",
+    "name": "Golden Lunehelm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1081",
+    "name": "Golden Lunemail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1082",
+    "name": "Golden Lunebraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1083",
+    "name": "Golden Lunecoil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1084",
+    "name": "Golden Lunegreaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1085",
+    "name": "Zinogre Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1086",
+    "name": "Zinogre Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1087",
+    "name": "Zinogre Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1088",
+    "name": "Zinogre Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1089",
+    "name": "Zinogre Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1090",
+    "name": "Zinogre Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1091",
+    "name": "Zinogre Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1092",
+    "name": "Zinogre Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1093",
+    "name": "Zinogre Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1094",
+    "name": "Zinogre Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1095",
+    "name": "Garuga Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1096",
+    "name": "Garuga Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1097",
+    "name": "Garuga Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1098",
+    "name": "Garuga Tassets Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1099",
+    "name": "Garuga Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1100",
+    "name": "Garuga Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1101",
+    "name": "Garuga Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1102",
+    "name": "Garuga Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1103",
+    "name": "Garuga Tassets Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1104",
+    "name": "Garuga Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1105",
+    "name": "Zorah Headgear Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1106",
+    "name": "Zorah Hide Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1107",
+    "name": "Zorah Claws Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1108",
+    "name": "Zorah Spine Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1109",
+    "name": "Zorah Spurs Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1110",
+    "name": "Zorah Headgear Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1111",
+    "name": "Zorah Hide Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1112",
+    "name": "Zorah Claws Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1113",
+    "name": "Zorah Spine Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1114",
+    "name": "Zorah Spurs Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1115",
+    "name": "Shara Ishvalda Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1116",
+    "name": "Shara Ishvalda Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1117",
+    "name": "Shara Ishvalda Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1118",
+    "name": "Shara Ishvalda Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1119",
+    "name": "Shara Ishvalda Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1120",
+    "name": "Shara Ishvalda Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1121",
+    "name": "Shara Ishvalda Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1122",
+    "name": "Shara Ishvalda Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1123",
+    "name": "Shara Ishvalda Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1124",
+    "name": "Shara Ishvalda Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1125",
+    "name": "Tentacle Cowl Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1126",
+    "name": "Tentacle Cloak Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1127",
+    "name": "Tentacle Gloves Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1128",
+    "name": "Tentacle Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1129",
+    "name": "Tentacle Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1130",
+    "name": "Tentacle Cowl Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1131",
+    "name": "Tentacle Cloak Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1132",
+    "name": "Tentacle Gloves Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1133",
+    "name": "Tentacle Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1134",
+    "name": "Tentacle Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1135",
+    "name": "Kirin Horn Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1136",
+    "name": "Kirin Jacket Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1137",
+    "name": "Kirin Longarms Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1138",
+    "name": "Kirin Hoop Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1139",
+    "name": "Kirin Leg Guards Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1140",
+    "name": "Kirin Horn Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1141",
+    "name": "Kirin Jacket Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1142",
+    "name": "Kirin Longarms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1143",
+    "name": "Kirin Hoop Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1144",
+    "name": "Kirin Leg Guards Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1145",
+    "name": "Kushala Glare Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1146",
+    "name": "Kushala Cista Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1147",
+    "name": "Kushala Grip Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1148",
+    "name": "Kushala Cocoon Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1149",
+    "name": "Kushala Crus Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1150",
+    "name": "Kushala Glare Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1151",
+    "name": "Kushala Cista Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1152",
+    "name": "Kushala Grip Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1153",
+    "name": "Kushala Cocoon Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1154",
+    "name": "Kushala Crus Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1155",
+    "name": "Kaiser Crown Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1156",
+    "name": "Kaiser Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1157",
+    "name": "Kaiser Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1158",
+    "name": "Kaiser Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1159",
+    "name": "Kaiser Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1160",
+    "name": "Kaiser Crown Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1161",
+    "name": "Kaiser Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1162",
+    "name": "Kaiser Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1163",
+    "name": "Kaiser Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1164",
+    "name": "Kaiser Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1165",
+    "name": "Fellshroud Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1166",
+    "name": "Fellshroud Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1167",
+    "name": "Fellshroud Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1168",
+    "name": "Fellshroud Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1169",
+    "name": "Fellshroud Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1170",
+    "name": "Fellshroud Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1171",
+    "name": "Fellshroud Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1172",
+    "name": "Fellshroud Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1173",
+    "name": "Fellshroud Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1174",
+    "name": "Fellshroud Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1175",
+    "name": "Rimeguard Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1176",
+    "name": "Rimeguard Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1177",
+    "name": "Rimeguard Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1178",
+    "name": "Rimeguard Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1179",
+    "name": "Rimeguard Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1180",
+    "name": "Rimeguard Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1181",
+    "name": "Rimeguard Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1182",
+    "name": "Rimeguard Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1183",
+    "name": "Rimeguard Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1184",
+    "name": "Rimeguard Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1185",
+    "name": "Guild Palace Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1186",
+    "name": "Guild Palace Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1187",
+    "name": "Guild Palace Braces Beat +",
+    "type": "gloves"
+  },
+  {
+    "id": "1188",
+    "name": "Guild Palace Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1189",
+    "name": "Guild Palace Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1190",
+    "name": "Guild Palace Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1191",
+    "name": "Guild Palace Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1192",
+    "name": "Guild Palace Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1193",
+    "name": "Guild Palace Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1194",
+    "name": "Guild Palace Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1195",
+    "name": "Esurient Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1196",
+    "name": "Esurient Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1197",
+    "name": "Esurient Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1198",
+    "name": "Esurient Faulds Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1199",
+    "name": "Esurient Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1200",
+    "name": "Esurient Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1201",
+    "name": "Esurient Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1202",
+    "name": "Esurient Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1203",
+    "name": "Esurient Faulds Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1204",
+    "name": "Esurient Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1205",
+    "name": "Pride Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1206",
+    "name": "Pride Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1207",
+    "name": "Pride Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1208",
+    "name": "Pride Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1209",
+    "name": "Pride Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1210",
+    "name": "Pride Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1211",
+    "name": "Pride Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1212",
+    "name": "Pride Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1213",
+    "name": "Pride Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1214",
+    "name": "Pride Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1215",
+    "name": "Damascus Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1216",
+    "name": "Damascus Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1217",
+    "name": "Damascus Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1218",
+    "name": "Damascus Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1219",
+    "name": "Damascus Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1220",
+    "name": "Damascus Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1221",
+    "name": "Damascus Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1222",
+    "name": "Damascus Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1223",
+    "name": "Damascus Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1224",
+    "name": "Damascus Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1225",
+    "name": "Dober Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1226",
+    "name": "Dober Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1227",
+    "name": "Dober Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1228",
+    "name": "Dober Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1229",
+    "name": "Dober Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1230",
+    "name": "Dober Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1231",
+    "name": "Dober Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1232",
+    "name": "Dober Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1233",
+    "name": "Dober Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1234",
+    "name": "Dober Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1235",
+    "name": "Black Belt Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1236",
+    "name": "Black Belt Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1237",
+    "name": "Black Belt Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1238",
+    "name": "Black Belt Tassets Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1239",
+    "name": "Black Belt Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1240",
+    "name": "Black Belt Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1241",
+    "name": "Black Belt Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1242",
+    "name": "Black Belt Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1243",
+    "name": "Black Belt Tassets Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1244",
+    "name": "Black Belt Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1245",
+    "name": "Rex Roar Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1246",
+    "name": "Rex Roar Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1247",
+    "name": "Rex Roar Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1248",
+    "name": "Rex Roar Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1249",
+    "name": "Rex Roar Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1250",
+    "name": "Rex Roar Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1251",
+    "name": "Rex Roar Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1252",
+    "name": "Rex Roar Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1253",
+    "name": "Rex Roar Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1254",
+    "name": "Rex Roar Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1255",
+    "name": "Tigrex Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1256",
+    "name": "Tigrex Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1257",
+    "name": "Tigrex Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1258",
+    "name": "Tigrex Tassets Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1259",
+    "name": "Tigrex Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1260",
+    "name": "Tigrex Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1261",
+    "name": "Tigrex Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1262",
+    "name": "Tigrex Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1263",
+    "name": "Tigrex Tassets Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1264",
+    "name": "Tigrex Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1265",
+    "name": "Brachydios Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1266",
+    "name": "Brachydios Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1267",
+    "name": "Brachydios Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1268",
+    "name": "Brachydios Faulds Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1269",
+    "name": "Brachydios Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1270",
+    "name": "Brachydios Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1271",
+    "name": "Brachydios Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1272",
+    "name": "Brachydios Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1273",
+    "name": "Brachydios Faulds Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1274",
+    "name": "Brachydios Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1275",
+    "name": "Acidic Glavenus Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1276",
+    "name": "Acidic Glavenus Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1277",
+    "name": "Acidic Glavenus Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1278",
+    "name": "Acidic Glavenus Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1279",
+    "name": "Acidic Glavenus Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1280",
+    "name": "Acidic Glavenus Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1281",
+    "name": "Acidic Glavenus Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1282",
+    "name": "Acidic Glavenus Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1283",
+    "name": "Acidic Glavenus Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1284",
+    "name": "Acidic Glavenus Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1285",
+    "name": "Golden Headdress Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1286",
+    "name": "Golden Haori Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1287",
+    "name": "Golden Kote Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1288",
+    "name": "Golden Obi Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1289",
+    "name": "Golden Hakama Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1290",
+    "name": "Golden Headdress Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1291",
+    "name": "Golden Haori Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1292",
+    "name": "Golden Kote Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1293",
+    "name": "Golden Obi Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1294",
+    "name": "Golden Hakama Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1295",
+    "name": "Glavenus Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1296",
+    "name": "Glavenus Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1297",
+    "name": "Glavenus Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1298",
+    "name": "Glavenus Faulds Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1299",
+    "name": "Glavenus Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1300",
+    "name": "Glavenus Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1301",
+    "name": "Glavenus Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1302",
+    "name": "Glavenus Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1303",
+    "name": "Glavenus Faulds Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1304",
+    "name": "Glavenus Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1305",
+    "name": "Nargacuga Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1306",
+    "name": "Nargacuga Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1307",
+    "name": "Nargacuga Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1308",
+    "name": "Nargacuga Faulds Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1309",
+    "name": "Nargacuga Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1310",
+    "name": "Nargacuga Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1311",
+    "name": "Nargacuga Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1312",
+    "name": "Nargacuga Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1313",
+    "name": "Nargacuga Faulds Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1314",
+    "name": "Nargacuga Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1315",
+    "name": "Uragaan Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1316",
+    "name": "Uragaan Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1317",
+    "name": "Uragaan Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1318",
+    "name": "Uragaan Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1319",
+    "name": "Uragaan Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1320",
+    "name": "Uragaan Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1321",
+    "name": "Uragaan Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1322",
+    "name": "Uragaan Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1323",
+    "name": "Uragaan Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1324",
+    "name": "Uragaan Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1325",
+    "name": "Lavasioth Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1326",
+    "name": "Lavasioth Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1327",
+    "name": "Lavasioth Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1328",
+    "name": "Lavasioth Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1329",
+    "name": "Lavasioth Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1330",
+    "name": "Lavasioth Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1331",
+    "name": "Lavasioth Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1332",
+    "name": "Lavasioth Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1333",
+    "name": "Lavasioth Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1334",
+    "name": "Lavasioth Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1335",
+    "name": "Death Garon Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1336",
+    "name": "Death Garon Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1337",
+    "name": "Death Garon Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1338",
+    "name": "Death Garon Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1339",
+    "name": "Death Garon Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1340",
+    "name": "Death Garon Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1341",
+    "name": "Death Garon Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1342",
+    "name": "Death Garon Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1343",
+    "name": "Death Garon Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1344",
+    "name": "Death Garon Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1345",
+    "name": "Odogaron Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1346",
+    "name": "Odogaron Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1347",
+    "name": "Odogaron Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1348",
+    "name": "Odogaron Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1349",
+    "name": "Odogaron Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1350",
+    "name": "Odogaron Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1351",
+    "name": "Odogaron Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1352",
+    "name": "Odogaron Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1353",
+    "name": "Odogaron Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1354",
+    "name": "Odogaron Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1355",
+    "name": "Hoarcry Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1356",
+    "name": "Hoarcry Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1357",
+    "name": "Hoarcry Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1358",
+    "name": "Hoarcry Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1359",
+    "name": "Hoarcry Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1360",
+    "name": "Hoarcry Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1361",
+    "name": "Hoarcry Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1362",
+    "name": "Hoarcry Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1363",
+    "name": "Hoarcry Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1364",
+    "name": "Hoarcry Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1365",
+    "name": "Legiana Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1366",
+    "name": "Legiana Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1367",
+    "name": "Legiana Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1368",
+    "name": "Legiana Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1369",
+    "name": "Legiana Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1370",
+    "name": "Legiana Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1371",
+    "name": "Legiana Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1372",
+    "name": "Legiana Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1373",
+    "name": "Legiana Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1374",
+    "name": "Legiana Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1375",
+    "name": "Diablos Nero Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1376",
+    "name": "Diablos Nero Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1377",
+    "name": "Diablos Nero Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1378",
+    "name": "Diablos Nero Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1379",
+    "name": "Diablos Nero Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1380",
+    "name": "Diablos Nero Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1381",
+    "name": "Diablos Nero Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1382",
+    "name": "Diablos Nero Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1383",
+    "name": "Diablos Nero Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1384",
+    "name": "Diablos Nero Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1385",
+    "name": "Diablos Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1386",
+    "name": "Diablos Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1387",
+    "name": "Diablos Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1388",
+    "name": "Diablos Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1389",
+    "name": "Diablos Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1390",
+    "name": "Diablos Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1391",
+    "name": "Diablos Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1392",
+    "name": "Diablos Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1393",
+    "name": "Diablos Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1394",
+    "name": "Diablos Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1395",
+    "name": "Rath Soul Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1396",
+    "name": "Rath Soul Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1397",
+    "name": "Rath Soul Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1398",
+    "name": "Rath Soul Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1399",
+    "name": "Rath Soul Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1400",
+    "name": "Rath Soul Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1401",
+    "name": "Rath Soul Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1402",
+    "name": "Rath Soul Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1403",
+    "name": "Rath Soul Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1404",
+    "name": "Rath Soul Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1405",
+    "name": "Rathalos Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1406",
+    "name": "Rathalos Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1407",
+    "name": "Rathalos Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1408",
+    "name": "Rathalos Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1409",
+    "name": "Rathalos Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1410",
+    "name": "Rathalos Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1411",
+    "name": "Rathalos Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1412",
+    "name": "Rathalos Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1413",
+    "name": "Rathalos Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1414",
+    "name": "Rathalos Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1415",
+    "name": "Barioth Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1416",
+    "name": "Barioth Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1417",
+    "name": "Barioth Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1418",
+    "name": "Barioth Faulds Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1419",
+    "name": "Barioth Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1420",
+    "name": "Barioth Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1421",
+    "name": "Barioth Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1422",
+    "name": "Barioth Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1423",
+    "name": "Barioth Faulds Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1424",
+    "name": "Barioth Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1425",
+    "name": "Empress Crown Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1426",
+    "name": "Empress Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1427",
+    "name": "Empress Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1428",
+    "name": "Empress Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1429",
+    "name": "Empress Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1430",
+    "name": "Empress Crown Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1431",
+    "name": "Empress Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1432",
+    "name": "Empress Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1433",
+    "name": "Empress Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1434",
+    "name": "Empress Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1435",
+    "name": "Claire's Head Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1436",
+    "name": "Claire's Body Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1437",
+    "name": "Claire's Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1438",
+    "name": "Claire's Torso Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1439",
+    "name": "Claire's Legs Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1440",
+    "name": "Leon's Head Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1441",
+    "name": "Leon's Body Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1442",
+    "name": "Leon's Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1443",
+    "name": "Leon's Torso Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1444",
+    "name": "Leon's Legs Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1445",
+    "name": "Stygian Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1446",
+    "name": "Stygian Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1447",
+    "name": "Stygian Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1448",
+    "name": "Stygian Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1449",
+    "name": "Stygian Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1450",
+    "name": "Stygian Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1451",
+    "name": "Stygian Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1452",
+    "name": "Stygian Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1453",
+    "name": "Stygian Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1454",
+    "name": "Stygian Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1455",
+    "name": "Safi Crested Crown Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1456",
+    "name": "Safi Crested Chest Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1457",
+    "name": "Safi Crested Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1458",
+    "name": "Safi Crested Belt Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1459",
+    "name": "Safi Crested Boots Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1460",
+    "name": "Safi Crested Crown Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1461",
+    "name": "Safi Crested Chest Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1462",
+    "name": "Safi Crested Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1463",
+    "name": "Safi Crested Belt Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1464",
+    "name": "Safi Crested Boots Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1465",
+    "name": "Oolong Hair Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1466",
+    "name": "Oolong Vest Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1467",
+    "name": "Oolong Sleeves Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1468",
+    "name": "Oolong Waist Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1469",
+    "name": "Oolong Boots Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1470",
+    "name": "Buff Chest Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1471",
+    "name": "Buff Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1472",
+    "name": "Buff Waist Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1473",
+    "name": "Buff Legs Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1474",
+    "name": "Duffel Penguin Mask Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1475",
+    "name": "Sealed Dragon Cloth Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1476",
+    "name": "Dragonseal Earrings Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1477",
+    "name": "Origin Helm",
+    "type": "head"
+  },
+  {
+    "id": "1478",
+    "name": "Origin Mail",
+    "type": "chest"
+  },
+  {
+    "id": "1479",
+    "name": "Origin Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "1480",
+    "name": "Origin Coil",
+    "type": "waist"
+  },
+  {
+    "id": "1481",
+    "name": "Origin Greaves",
+    "type": "legs"
+  },
+  {
+    "id": "1482",
+    "name": "Pulverizing Feather",
+    "type": "head"
+  },
+  {
+    "id": "1483",
+    "name": "Queen Beetle Vertex",
+    "type": "head"
+  },
+  {
+    "id": "1484",
+    "name": "Queen Beetle Thorax",
+    "type": "chest"
+  },
+  {
+    "id": "1485",
+    "name": "Queen Beetle Brachia",
+    "type": "gloves"
+  },
+  {
+    "id": "1486",
+    "name": "Queen Beetle Elytra",
+    "type": "waist"
+  },
+  {
+    "id": "1487",
+    "name": "Queen Beetle Crura",
+    "type": "legs"
+  },
+  {
+    "id": "1488",
+    "name": "Butterfly Vertex M",
+    "type": "head"
+  },
+  {
+    "id": "1489",
+    "name": "Butterfly Thorax M",
+    "type": "chest"
+  },
+  {
+    "id": "1490",
+    "name": "Butterfly Brachia M",
+    "type": "gloves"
+  },
+  {
+    "id": "1491",
+    "name": "Butterfly Elytra M",
+    "type": "waist"
+  },
+  {
+    "id": "1492",
+    "name": "Butterfly Crura M",
+    "type": "legs"
+  },
+  {
+    "id": "1493",
+    "name": "Queen Beetle Vertex Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1494",
+    "name": "Queen Beetle Thorax Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1495",
+    "name": "Queen Beetle Brachia Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1496",
+    "name": "Queen Beetle Elytra Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1498",
+    "name": "Queen Beetle Crura Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1499",
+    "name": "Queen Beetle Vertex Beta",
+    "type": "head"
+  },
+  {
+    "id": "1500",
+    "name": "Queen Beetle Thorax Beta",
+    "type": "chest"
+  },
+  {
+    "id": "1501",
+    "name": "Queen Beetle Brachia Beta",
+    "type": "gloves"
+  },
+  {
+    "id": "1502",
+    "name": "Queen Beetle Elytra Beta",
+    "type": "waist"
+  },
+  {
+    "id": "1503",
+    "name": "Queen Beetle Crura Beta",
+    "type": "legs"
+  },
+  {
+    "id": "1504",
+    "name": "Diver's Mask",
+    "type": "head"
+  },
+  {
+    "id": "1505",
+    "name": "Diver's Suit",
+    "type": "chest"
+  },
+  {
+    "id": "1506",
+    "name": "Diver's Braces",
+    "type": "gloves"
+  },
+  {
+    "id": "1507",
+    "name": "Diver's Belt",
+    "type": "waist"
+  },
+  {
+    "id": "1508",
+    "name": "Diver's Boots",
+    "type": "legs"
+  },
+  {
+    "id": "1509",
+    "name": "Diver's Mask Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1511",
+    "name": "Diver's Suit Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1512",
+    "name": "Diver's Braces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1513",
+    "name": "Diver's Belt Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1514",
+    "name": "Diver's Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1515",
+    "name": "Harvest Flor",
+    "type": "head"
+  },
+  {
+    "id": "1516",
+    "name": "Harvest Tronco",
+    "type": "chest"
+  },
+  {
+    "id": "1517",
+    "name": "Harvest Trama",
+    "type": "gloves"
+  },
+  {
+    "id": "1518",
+    "name": "Harvest Hoja",
+    "type": "waist"
+  },
+  {
+    "id": "1519",
+    "name": "Harvest Raiz",
+    "type": "legs"
+  },
+  {
+    "id": "1520",
+    "name": "Harvest Flor Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1521",
+    "name": "Harvest Tronco Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1522",
+    "name": "Harvest Trama Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1523",
+    "name": "Harvest Hoja Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1524",
+    "name": "Harvest Raiz Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1525",
+    "name": "Orion Cap",
+    "type": "head"
+  },
+  {
+    "id": "1526",
+    "name": "Orion Vest",
+    "type": "chest"
+  },
+  {
+    "id": "1527",
+    "name": "Orion Vambraces",
+    "type": "gloves"
+  },
+  {
+    "id": "1528",
+    "name": "Orion Coat",
+    "type": "waist"
+  },
+  {
+    "id": "1529",
+    "name": "Orion Boots",
+    "type": "legs"
+  },
+  {
+    "id": "1530",
+    "name": "Orion Cap Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1531",
+    "name": "Orion Vest Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1532",
+    "name": "Orion Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1533",
+    "name": "Orion Coat Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1534",
+    "name": "Orion Boots Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1535",
+    "name": "Aloy's Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1536",
+    "name": "Aloy's Body Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1537",
+    "name": "Aloy's Arms Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1538",
+    "name": "Aloy's Torso Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1539",
+    "name": "Aloy's Leggings Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1540",
+    "name": "Aloy's Head Gamma",
+    "type": "head"
+  },
+  {
+    "id": "1541",
+    "name": "Aloy's Body Gamma",
+    "type": "chest"
+  },
+  {
+    "id": "1542",
+    "name": "Aloy's Arms Gamma",
+    "type": "gloves"
+  },
+  {
+    "id": "1543",
+    "name": "Aloy's Torso Gamma",
+    "type": "waist"
+  },
+  {
+    "id": "1544",
+    "name": "Aloy's Leggings Gamma",
+    "type": "legs"
+  },
+  {
+    "id": "1545",
+    "name": "Ryu's Head",
+    "type": "head"
+  },
+  {
+    "id": "1546",
+    "name": "Ryu's Karate Gi",
+    "type": "chest"
+  },
+  {
+    "id": "1547",
+    "name": "Ryu's Arms",
+    "type": "gloves"
+  },
+  {
+    "id": "1548",
+    "name": "Ryu's Torso",
+    "type": "waist"
+  },
+  {
+    "id": "1549",
+    "name": "Ryu's Legs",
+    "type": "legs"
+  },
+  {
+    "id": "1550",
+    "name": "Ryu's Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1551",
+    "name": "Ryu's Karate Gi Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1552",
+    "name": "Ryu's Arms Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1553",
+    "name": "Ryu's Torso Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1554",
+    "name": "Ryu's Legs Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1555",
+    "name": "Sakura's Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1556",
+    "name": "Sakura's Work Uniform Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1557",
+    "name": "Sakura's Arms Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1558",
+    "name": "Sakura's Skirt Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1559",
+    "name": "Sakura's Legs Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1560",
+    "name": "Geralt's Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1561",
+    "name": "Geralt's Body Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1562",
+    "name": "Geralt's Arms Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1563",
+    "name": "Geralt's Torso Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1564",
+    "name": "Geralt's Legs Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1565",
+    "name": "Ciri's Head Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1566",
+    "name": "Ciri's Body Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1567",
+    "name": "Ciri's Arms Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1568",
+    "name": "Ciri's Torso Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1569",
+    "name": "Ciri's Legs Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1570",
+    "name": "Acrobat Earrings Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1571",
+    "name": "Showman Earrings Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1572",
+    "name": "Astral Veil Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1573",
+    "name": "Astral Cloth Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1574",
+    "name": "Astral  Scarf Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1575",
+    "name": "Astral Skirt Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1576",
+    "name": "Astral Tights Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1577",
+    "name": "Banuk Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1578",
+    "name": "Banuk Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1579",
+    "name": "Banuk Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1580",
+    "name": "Banuk Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1581",
+    "name": "Banuk Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1584",
+    "name": "Wyverian Ears Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1585",
+    "name": "Shield-Weaver Head +",
+    "type": "head"
+  },
+  {
+    "id": "1586",
+    "name": "Shield-Weaver Chest +",
+    "type": "chest"
+  },
+  {
+    "id": "1587",
+    "name": "Shield-Weaver Arms +",
+    "type": "gloves"
+  },
+  {
+    "id": "1588",
+    "name": "Shield-Weaver Torso +",
+    "type": "waist"
+  },
+  {
+    "id": "1589",
+    "name": "Shield-Weaver Legs +",
+    "type": "legs"
+  },
+  {
+    "id": "1590",
+    "name": "Defender Helm Alpha",
+    "type": "head"
+  },
+  {
+    "id": "1591",
+    "name": "Defender Mail Alpha",
+    "type": "chest"
+  },
+  {
+    "id": "1592",
+    "name": "Defender Vambraces Alpha",
+    "type": "gloves"
+  },
+  {
+    "id": "1593",
+    "name": "Defender Waist Alpha",
+    "type": "waist"
+  },
+  {
+    "id": "1594",
+    "name": "Defender Greaves Alpha",
+    "type": "legs"
+  },
+  {
+    "id": "1595",
+    "name": "Guardian Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1596",
+    "name": "Guardian Suit Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1597",
+    "name": "Guardian Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1598",
+    "name": "Guardian Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1599",
+    "name": "Guardian Boots Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1600",
+    "name": "Grand God's Peer Mask Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1601",
+    "name": "Grand God's Peer Garb Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1602",
+    "name": "Grand God's Peer Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1603",
+    "name": "Grand God's Peer Belt Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1604",
+    "name": "Grand God's Peer Feet Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1605",
+    "name": "Grand God's Peer Mask Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1606",
+    "name": "Grand God's Peer Garb Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1607",
+    "name": "Grand God's Peer Arms Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1608",
+    "name": "Grand God's Peer Belt Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1609",
+    "name": "Grand God's Peer Feet Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1610",
+    "name": "Brachydium Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1611",
+    "name": "Brachydium Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1612",
+    "name": "Brachydium Braces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1613",
+    "name": "Brachydium Faulds Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1614",
+    "name": "Brachydium Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1615",
+    "name": "Brachydium Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1616",
+    "name": "Brachydium Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1617",
+    "name": "Brachydium Braces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1618",
+    "name": "Brachydium Faulds Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1619",
+    "name": "Brachydium Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1620",
+    "name": "Rose Headplace Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1621",
+    "name": "Rose Jacket Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1622",
+    "name": "Rose Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1623",
+    "name": "Rose Belt Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1624",
+    "name": "Rose Boots Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1625",
+    "name": "Kulve Taroth's Fury Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1626",
+    "name": "Kulve Taroth's Ire Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1627",
+    "name": "Kulve Taroth's Rage Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1628",
+    "name": "Kulve Taroth's Malice Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1629",
+    "name": "Kulve Taroth's Wrath Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1630",
+    "name": "Kulve Taroth's Fury Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1631",
+    "name": "Kulve Taroth's Ire Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1632",
+    "name": "Kulve Taroth's Rage Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1633",
+    "name": "Kulve Taroth's Malice Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1634",
+    "name": "Kulve Taroth's Wrath Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1635",
+    "name": "Tentacle Cowl Gamma +",
+    "type": "head"
+  },
+  {
+    "id": "1636",
+    "name": "Tentacle Cloak Gamma +",
+    "type": "chest"
+  },
+  {
+    "id": "1637",
+    "name": "Tentacle Gloves Gamma +",
+    "type": "gloves"
+  },
+  {
+    "id": "1638",
+    "name": "Tentacle Coil Gamma +",
+    "type": "waist"
+  },
+  {
+    "id": "1639",
+    "name": "Escadora Wisdom Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1640",
+    "name": "Escadora Soul Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1641",
+    "name": "Escadora Armguards Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1642",
+    "name": "Escadora Might Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1643",
+    "name": "Escadora Sheath Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1644",
+    "name": "Escadora Wisdom Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1645",
+    "name": "Escadora Soul Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1646",
+    "name": "Escadora Armguards Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1647",
+    "name": "Escadora Might Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1648",
+    "name": "Escadora Sheath Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1649",
+    "name": "Frostfang Helm Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1650",
+    "name": "Frostfang Mail Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1651",
+    "name": "Frostfang Vambraces Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1652",
+    "name": "Frostfang Coil Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1653",
+    "name": "Frostfang Greaves Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1654",
+    "name": "Frostfang Helm Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1655",
+    "name": "Frostfang Mail Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1656",
+    "name": "Frostfang Vambraces Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1657",
+    "name": "Frostfang Coil Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1658",
+    "name": "Frostfang Greaves Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1659",
+    "name": "Passionate Headdress Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1660",
+    "name": "Passionate Body Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1661",
+    "name": "Passionate Arms Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1662",
+    "name": "Passionate Belt Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1663",
+    "name": "Passionate Leggings Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1664",
+    "name": "Dragonhead Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1665",
+    "name": "Dragonhide Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1666",
+    "name": "Dragonclaws Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1667",
+    "name": "Dragonbarbs Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1668",
+    "name": "Dragonfeet Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1669",
+    "name": "Dragonhead Beta +",
+    "type": "head"
+  },
+  {
+    "id": "1670",
+    "name": "Dragonhide Beta +",
+    "type": "chest"
+  },
+  {
+    "id": "1671",
+    "name": "Dragonclaws Beta +",
+    "type": "gloves"
+  },
+  {
+    "id": "1672",
+    "name": "Dragonbarbs Beta +",
+    "type": "waist"
+  },
+  {
+    "id": "1673",
+    "name": "Dragonfeet Beta +",
+    "type": "legs"
+  },
+  {
+    "id": "1674",
+    "name": "Demonlord Hair Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1675",
+    "name": "Demonlord Clown Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1676",
+    "name": "Demonlord Blackarm Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1677",
+    "name": "Demonlord Leather Belt Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1678",
+    "name": "Demonlord Boots Alpha +",
+    "type": "legs"
+  },
+  {
+    "id": "1679",
+    "name": "Rimeguard Helm Gamma +",
+    "type": "head"
+  },
+  {
+    "id": "1680",
+    "name": "Rimeguard Mail Gamma +",
+    "type": "chest"
+  },
+  {
+    "id": "1681",
+    "name": "Rimeguard Vambraces Gamma +",
+    "type": "gloves"
+  },
+  {
+    "id": "1682",
+    "name": "Rimeguard Coil Gamma +",
+    "type": "waist"
+  },
+  {
+    "id": "1683",
+    "name": "Rimeguard Greaves Gamma +",
+    "type": "legs"
+  },
+  {
+    "id": "1684",
+    "name": "Azure Age Hair Alpha +",
+    "type": "head"
+  },
+  {
+    "id": "1685",
+    "name": "Azure Age Haori Alpha +",
+    "type": "chest"
+  },
+  {
+    "id": "1686",
+    "name": "Azure Age Sleeve Alpha +",
+    "type": "gloves"
+  },
+  {
+    "id": "1687",
+    "name": "Azure Age Obi Alpha +",
+    "type": "waist"
+  },
+  {
+    "id": "1688",
+    "name": "Azure Age Geta Alpha +",
+    "type": "legs"
+  }
+]

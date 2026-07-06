@@ -1,5 +1,6 @@
 package com.example.mhlmbackend.controller;
 
+import com.example.mhlmbackend.dto.ArmorLoadoutFormDTO;
 import com.example.mhlmbackend.model.ArmorLoadout;
 import com.example.mhlmbackend.service.ArmorLoadoutService;
 import org.springframework.http.HttpStatus;
@@ -19,8 +20,8 @@ public class ArmorLoadoutController {
     // CREATE
     @PostMapping("/api/armorloadouts")
     @ResponseStatus(HttpStatus.CREATED)
-    public ArmorLoadout createArmorLoadout(@RequestBody ArmorLoadout armorLoadout) {
-        return armorLoadoutService.createArmorLoadout(armorLoadout);
+    public ArmorLoadout createArmorLoadout(@RequestBody ArmorLoadoutFormDTO form) {
+        return armorLoadoutService.createArmorLoadout(form);
     }
 
     // READ
@@ -36,8 +37,8 @@ public class ArmorLoadoutController {
 
     // UPDATE
     @PutMapping("/api/armorloadouts/{id}")
-    public ArmorLoadout updateArmorLoadout(@PathVariable String id, @RequestBody ArmorLoadout armorLoadout) {
-        return armorLoadoutService.updateArmorLoadout(id, armorLoadout);
+    public ArmorLoadout updateArmorLoadout(@PathVariable String id, @RequestBody ArmorLoadoutFormDTO form) {
+        return armorLoadoutService.updateArmorLoadout(id, form);
     }
 
     // DELETE
