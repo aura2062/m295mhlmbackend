@@ -16,7 +16,7 @@ class ArmorPieceRepositoryTest {
     private ArmorPieceRepository armorPieceRepository;
 
     @Test
-    void seederHasDbFilled() {
+    void seederHasDbFilledWithAtLeastOneArmorPiece() {
         long count = armorPieceRepository.count();
         assertTrue(count > 0);
     }
