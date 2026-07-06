@@ -16,6 +16,7 @@ public class ArmorPieceService {
         this.armorPieceRepository = armorPieceRepository;
     }
 
+    // READ
     public List<ArmorPiece> getAllArmorPieces() {
         return armorPieceRepository.findAll();
     }

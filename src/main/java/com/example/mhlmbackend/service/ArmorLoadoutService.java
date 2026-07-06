@@ -15,11 +15,28 @@ public class ArmorLoadoutService {
         this.armorLoadoutRepository = armorLoadoutRepository;
     }
 
+    // CREATE
+    public ArmorLoadout createArmorLoadout(ArmorLoadout armorLoadout) {
+        return armorLoadoutRepository.save(armorLoadout);
+    }
+
+    // READ
     public List<ArmorLoadout> getAllArmorLoadouts() {
         return armorLoadoutRepository.findAll();
     }
 
     public ArmorLoadout getArmorLoadoutById(String id) {
-        return armorLoadoutRepository.findById(id).orElse(null);
+        return armorLoadoutRepository.findById(Long.parseLong(id)).orElse(null);
+    }
+
+    // UPDATE
+    public ArmorLoadout updateArmorLoadout(String id, ArmorLoadout armorLoadout) {
+        armorLoadout.setId(Long.parseLong(id));
+        return armorLoadoutRepository.save(armorLoadout);
+    }
+
+    // DELETE
+    public void deleteArmorLoadout(String id) {
+        armorLoadoutRepository.deleteById(Long.parseLong(id));
     }
 }
