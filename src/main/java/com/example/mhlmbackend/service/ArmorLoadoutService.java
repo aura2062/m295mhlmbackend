@@ -1,6 +1,7 @@
 package com.example.mhlmbackend.service;
 
 import com.example.mhlmbackend.dto.ArmorLoadoutFormDTO;
+import com.example.mhlmbackend.exception.ArmorLoadoutNotFoundException;
 import com.example.mhlmbackend.mapper.ArmorLoadoutMapper;
 import com.example.mhlmbackend.model.ArmorLoadout;
 import com.example.mhlmbackend.repository.ArmorLoadoutRepository;
@@ -30,11 +31,15 @@ public class ArmorLoadoutService {
     }
 
     public ArmorLoadout getArmorLoadoutById(String id) {
-        return armorLoadoutRepository.findById(Long.parseLong(id)).orElse(null);
+        return armorLoadoutRepository.findById(Long.parseLong(id)).orElseThrow(() -> new ArmorLoadoutNotFoundException(id) );
     }
 
     // UPDATE
     public ArmorLoadout updateArmorLoadout(String id, ArmorLoadoutFormDTO form) {
+        if(!armorLoadoutRepository.existsById(Long.parseLong(id))) {
+            throw new ArmorLoadoutNotFoundException(id);
+        }
+
         ArmorLoadout armorLoadout = ArmorLoadoutMapper.toEntity(form);
         armorLoadout.setId(Long.parseLong(id));
         return armorLoadoutRepository.save(armorLoadout);
@@ -42,6 +47,10 @@ public class ArmorLoadoutService {
 
     // DELETE
     public void deleteArmorLoadout(String id) {
+        if(!armorLoadoutRepository.existsById(Long.parseLong(id))) {
+            throw new ArmorLoadoutNotFoundException(id);
+        }
+
         armorLoadoutRepository.deleteById(Long.parseLong(id));
     }
 }

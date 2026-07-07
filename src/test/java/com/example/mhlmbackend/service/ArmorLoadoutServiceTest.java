@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest
-public class ArmorLoadoutServiceTest {
+public class ArmorLoadoutServiceTest { // rewrite this test file
 
     @Autowired
     private ArmorLoadoutService armorLoadoutService;
