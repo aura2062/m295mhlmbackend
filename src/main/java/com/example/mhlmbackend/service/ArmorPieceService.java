@@ -24,4 +24,8 @@ public class ArmorPieceService {
     public ArmorPiece getArmorPieceById( @PathVariable String id) {
         return armorPieceRepository.findById(id).orElse(null);
     }
+
+    public List<ArmorPiece> getArmorPiecesByType(@PathVariable String type) {
+        return armorPieceRepository.findByType(type);
+    }
 }

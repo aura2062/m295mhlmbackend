@@ -26,4 +26,9 @@ public class ArmorPieceController {
     public ArmorPiece getArmorPieceById( @PathVariable String id) {
         return armorPieceService.getArmorPieceById(id);
     }
+
+    @GetMapping("api/armorpieces/type/{type}")
+    public List<ArmorPiece> getArmorPiecesByType(@PathVariable String type) {
+        return armorPieceService.getArmorPiecesByType(type);
+    }
 }
