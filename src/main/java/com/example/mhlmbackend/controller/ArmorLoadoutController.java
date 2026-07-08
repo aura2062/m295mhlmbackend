@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@RequestMapping("/api/armorloadouts")
 public class ArmorLoadoutController {
 
     private final ArmorLoadoutService armorLoadoutService;
@@ -19,31 +20,31 @@ public class ArmorLoadoutController {
     }
 
     // CREATE
-    @PostMapping("/api/armorloadouts")
+    @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public ArmorLoadout createArmorLoadout(@Valid @RequestBody ArmorLoadoutFormDTO form) {
         return armorLoadoutService.createArmorLoadout(form);
     }
 
     // READ
-    @GetMapping("/api/armorloadouts")
+    @GetMapping
     public List<ArmorLoadout> getArmorLoadouts() {
         return armorLoadoutService.getAllArmorLoadouts();
     }
 
-    @GetMapping("/api/armorloadouts/{id}")
+    @GetMapping("/{id}")
     public ArmorLoadout getArmorLoadoutById(@PathVariable String id) {
         return armorLoadoutService.getArmorLoadoutById(id);
     }
 
     // UPDATE
-    @PutMapping("/api/armorloadouts/{id}")
+    @PutMapping("/{id}")
     public ArmorLoadout updateArmorLoadout(@PathVariable String id, @Valid @RequestBody ArmorLoadoutFormDTO form) {
         return armorLoadoutService.updateArmorLoadout(id, form);
     }
 
     // DELETE
-    @DeleteMapping("/api/armorloadouts/{id}")
+    @DeleteMapping("/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deleteArmorLoadout(@PathVariable String id) {
         armorLoadoutService.deleteArmorLoadout(id);
